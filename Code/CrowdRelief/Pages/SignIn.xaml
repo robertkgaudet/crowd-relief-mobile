@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrowdRelief.Pages.SignIn"
+             Title="Sign In">
+    
+    <StackLayout Padding="20">
+        <StackLayout x:Name="FirstStackLayout" IsVisible="True">
+            <Label Text="Single Page App" FontSize="40" HorizontalTextAlignment="Center" />
+            <Label Text="Content pages are designed to contain a 'Page' of UI" FontSize="24" HorizontalTextAlignment="Center"/>
+            <Label Text="Useful for single page apps, or as sub pages in a more complex app" FontSize="24" HorizontalTextAlignment="Center"/>
+        </StackLayout>
+        <StackLayout x:Name="SecondStackLayout" IsVisible="False">
+            <BoxView BackgroundColor="#44004400" HeightRequest="6"  />
+            <Grid HeightRequest="250" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="60" />
+                </Grid.RowDefinitions>
+
+                <Image Source="StopFountain.jpg" Aspect="AspectFill"  HeightRequest="250" Grid.RowSpan="2"/>
+
+                <BoxView BackgroundColor="#66004400" Grid.Row="1" />
+                <Image Source="MapPin.png" Aspect="AspectFit" WidthRequest="50" HeightRequest="50" Grid.Row="1" HorizontalOptions="End" />
+                <Label Text="Buckingham Fountain" TextColor="White" FontSize="28" FontAttributes="Bold" Grid.Row="1"  HorizontalTextAlignment="Start" VerticalOptions="Center"/>
+            </Grid>
+
+            <StackLayout Orientation="Vertical" Padding="10">
+
+                <Label Text="Water jets and statues" TextColor="White" FontSize="18" FontAttributes="Italic" />
+                <Label FontSize="14"  Text="Buckingham Fountain is a Chicago landmark and one of the largest in the world. While in operation, the Fountain produces a major water display for 20 minutes every hour.   During the major display, a center jet shoots water to a height of 150 feet into the air.   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut leo augue. Nulla dignissim, velit ut tincidunt sagittis, dui tellus dapibus nisi, ultrices feugiat risus dolor ut quam. Proin bibendum, augue et suscipit venenatis, tellus tellus varius elit, volutpat semper purus dolor eget magna. Etiam sollicitudin dolor id dui feugiat molestie. Praesent consequat bibendum mi, ac lacinia dolor hendrerit et. Aenean a purus quis lacus hendrerit ullamcorper. Donec tristique, nulla sed ullamcorper ultrices, quam risus sagittis libero, eu volutpat enim turpis cursus augue."
+/>
+            </StackLayout>
+        </StackLayout>
+
+        <Button Text="More..." Clicked="MoreButton_Clicked" />
+    </StackLayout>
+</ContentPage>
