@@ -19,10 +19,19 @@ namespace CrowdRelief.iOS {
 		// You have 17 seconds to return from this method, or iOS will terminate your application.
 		//
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options) {
-			global::Xamarin.Forms.Forms.Init();
+            global::Xamarin.Forms.Forms.Init();
+            global::Xamarin.Auth.Presenters.XamarinIOS.AuthenticationConfiguration.Init();
 			LoadApplication(new App());
 
 			return base.FinishedLaunching(app, options);
 		}
-	}
+
+        public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
+        {
+            var uri = new Uri(url.AbsoluteString);
+
+            App.AuthenticationState.OnPageLoading(uri);
+            return true;
+        }
+    }
 }

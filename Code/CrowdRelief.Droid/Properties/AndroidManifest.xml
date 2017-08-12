@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="CrowdRelief.Droid">
-	<uses-sdk android:minSdkVersion="15" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.crowdrelief.droid" android:versionCode="0" android:versionName="0.0.0">
+	<uses-sdk android:minSdkVersion="19" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="CrowdRelief" android:icon="@drawable/icon"></application>
 </manifest>

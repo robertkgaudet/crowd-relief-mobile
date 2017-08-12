@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:DevEnvExeLogin"
-             x:Class="CrowdRelief.Pages.LoginPage">
-  <StackLayout>
-    <Entry Placeholder="Username" />
-    <Entry IsPassword="true" Placeholder="Password" />
-    <Button Text="Login"  HeightRequest="50"  />
-    <Button Text="Google"       Clicked="LoginClick" Image="GOOGLE.png"     HeightRequest="50"/>
-    <Button Text="FaceBook"     Clicked="LoginClick" Image="FACEBOOK.png"   HeightRequest="50"/>
-    <Button Text="Twitter"      Clicked="LoginClick" Image="TWITTER.png"    HeightRequest="50"/>
-    <Button Text="MICROSOFT"    Clicked="LoginClick" Image="MICROSOFT.png"  HeightRequest="40"/>
-  </StackLayout>
+<ContentPage x:Class="CrowdRelief.Pages.LoginPage" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:DevEnvExeLogin">
+    <StackLayout>
+        <Entry Placeholder="Username" />
+        <Entry IsPassword="true" Placeholder="Password" />
+        <Button Command="{Binding LoginCommand}"
+                CommandParameter="local" HeightRequest="50" Text="Login" />
+        <Button Command="{Binding LoginCommand}"
+                CommandParameter="google" HeightRequest="50" Image="GOOGLE.png" Text="Google" />
+        <Button Command="{Binding LoginCommand}"
+                CommandParameter="facebook" HeightRequest="50" Image="FACEBOOK.png" Text="FaceBook" />
+        <Button Command="{Binding LoginCommand}"
+                CommandParameter="twitter" HeightRequest="50" Image="TWITTER.png" Text="Twitter" />
+        <Button Command="{Binding LoginCommand}"
+                CommandParameter="microsoft" HeightRequest="40" Image="MICROSOFT.png" Text="MICROSOFT" />
+    </StackLayout>
 </ContentPage>
