@@ -36,6 +36,2119 @@ namespace CrowdRelief.Droid
 			global::Xamarin.Auth.Resource.String.ApplicationName = global::CrowdRelief.Droid.Resource.String.ApplicationName;
 			global::Xamarin.Auth.Resource.String.Hello = global::CrowdRelief.Droid.Resource.String.Hello;
 			global::Xamarin.Auth.Resource.String.title_activity_webview = global::CrowdRelief.Droid.Resource.String.title_activity_webview;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_fade_in = global::CrowdRelief.Droid.Resource.Animation.abc_fade_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_fade_out = global::CrowdRelief.Droid.Resource.Animation.abc_fade_out;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_grow_fade_in_from_bottom = global::CrowdRelief.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_popup_enter = global::CrowdRelief.Droid.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_popup_exit = global::CrowdRelief.Droid.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CrowdRelief.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_slide_in_bottom = global::CrowdRelief.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_slide_in_top = global::CrowdRelief.Droid.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_slide_out_bottom = global::CrowdRelief.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.abc_slide_out_top = global::CrowdRelief.Droid.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_bottom_sheet_slide_in = global::CrowdRelief.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_bottom_sheet_slide_out = global::CrowdRelief.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_fab_in = global::CrowdRelief.Droid.Resource.Animation.design_fab_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_fab_out = global::CrowdRelief.Droid.Resource.Animation.design_fab_out;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_snackbar_in = global::CrowdRelief.Droid.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.design_snackbar_out = global::CrowdRelief.Droid.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.slide_in_right = global::CrowdRelief.Droid.Resource.Animation.slide_in_right;
+			global::Xamarin.Auth.XamarinForms.Resource.Animation.slide_out_left = global::CrowdRelief.Droid.Resource.Animation.slide_out_left;
+			global::Xamarin.Auth.XamarinForms.Resource.Animator.design_appbar_state_list_animator = global::CrowdRelief.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarDivider = global::CrowdRelief.Droid.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarItemBackground = global::CrowdRelief.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarPopupTheme = global::CrowdRelief.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarSize = global::CrowdRelief.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarSplitStyle = global::CrowdRelief.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarStyle = global::CrowdRelief.Droid.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarTabBarStyle = global::CrowdRelief.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarTabStyle = global::CrowdRelief.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarTabTextStyle = global::CrowdRelief.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarTheme = global::CrowdRelief.Droid.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionBarWidgetTheme = global::CrowdRelief.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionDropDownStyle = global::CrowdRelief.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionLayout = global::CrowdRelief.Droid.Resource.Attribute.actionLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionMenuTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionMenuTextColor = global::CrowdRelief.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeBackground = global::CrowdRelief.Droid.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeCloseButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeCloseDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeCopyDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeCutDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeFindDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModePasteDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModePopupWindowStyle = global::CrowdRelief.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeSelectAllDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeShareDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeSplitBackground = global::CrowdRelief.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeStyle = global::CrowdRelief.Droid.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionModeWebSearchDrawable = global::CrowdRelief.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionOverflowButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionOverflowMenuStyle = global::CrowdRelief.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionProviderClass = global::CrowdRelief.Droid.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.actionViewClass = global::CrowdRelief.Droid.Resource.Attribute.actionViewClass;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.activityChooserViewStyle = global::CrowdRelief.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.alertDialogButtonGroupStyle = global::CrowdRelief.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.alertDialogCenterButtons = global::CrowdRelief.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.alertDialogStyle = global::CrowdRelief.Droid.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.alertDialogTheme = global::CrowdRelief.Droid.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.allowStacking = global::CrowdRelief.Droid.Resource.Attribute.allowStacking;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.alpha = global::CrowdRelief.Droid.Resource.Attribute.alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.arrowHeadLength = global::CrowdRelief.Droid.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.arrowShaftLength = global::CrowdRelief.Droid.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.autoCompleteTextViewStyle = global::CrowdRelief.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.background = global::CrowdRelief.Droid.Resource.Attribute.background;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.backgroundSplit = global::CrowdRelief.Droid.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.backgroundStacked = global::CrowdRelief.Droid.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.backgroundTint = global::CrowdRelief.Droid.Resource.Attribute.backgroundTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.backgroundTintMode = global::CrowdRelief.Droid.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.barLength = global::CrowdRelief.Droid.Resource.Attribute.barLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.behavior_autoHide = global::CrowdRelief.Droid.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.behavior_hideable = global::CrowdRelief.Droid.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.behavior_overlapTop = global::CrowdRelief.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.behavior_peekHeight = global::CrowdRelief.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.behavior_skipCollapsed = global::CrowdRelief.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.borderWidth = global::CrowdRelief.Droid.Resource.Attribute.borderWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.borderlessButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.bottomSheetDialogTheme = global::CrowdRelief.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.bottomSheetStyle = global::CrowdRelief.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonBarButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonBarNegativeButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonBarNeutralButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonBarPositiveButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonBarStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonGravity = global::CrowdRelief.Droid.Resource.Attribute.buttonGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonPanelSideLayout = global::CrowdRelief.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonStyle = global::CrowdRelief.Droid.Resource.Attribute.buttonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonStyleSmall = global::CrowdRelief.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonTint = global::CrowdRelief.Droid.Resource.Attribute.buttonTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.buttonTintMode = global::CrowdRelief.Droid.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardBackgroundColor = global::CrowdRelief.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardCornerRadius = global::CrowdRelief.Droid.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardElevation = global::CrowdRelief.Droid.Resource.Attribute.cardElevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardMaxElevation = global::CrowdRelief.Droid.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardPreventCornerOverlap = global::CrowdRelief.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.cardUseCompatPadding = global::CrowdRelief.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.checkboxStyle = global::CrowdRelief.Droid.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.checkedTextViewStyle = global::CrowdRelief.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.closeIcon = global::CrowdRelief.Droid.Resource.Attribute.closeIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.closeItemLayout = global::CrowdRelief.Droid.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.collapseContentDescription = global::CrowdRelief.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.collapseIcon = global::CrowdRelief.Droid.Resource.Attribute.collapseIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.collapsedTitleGravity = global::CrowdRelief.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.collapsedTitleTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.color = global::CrowdRelief.Droid.Resource.Attribute.color;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorAccent = global::CrowdRelief.Droid.Resource.Attribute.colorAccent;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorBackgroundFloating = global::CrowdRelief.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorButtonNormal = global::CrowdRelief.Droid.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorControlActivated = global::CrowdRelief.Droid.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorControlHighlight = global::CrowdRelief.Droid.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorControlNormal = global::CrowdRelief.Droid.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorPrimary = global::CrowdRelief.Droid.Resource.Attribute.colorPrimary;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorPrimaryDark = global::CrowdRelief.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.colorSwitchThumbNormal = global::CrowdRelief.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.commitIcon = global::CrowdRelief.Droid.Resource.Attribute.commitIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetEnd = global::CrowdRelief.Droid.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetEndWithActions = global::CrowdRelief.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetLeft = global::CrowdRelief.Droid.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetRight = global::CrowdRelief.Droid.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetStart = global::CrowdRelief.Droid.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentInsetStartWithNavigation = global::CrowdRelief.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentPadding = global::CrowdRelief.Droid.Resource.Attribute.contentPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentPaddingBottom = global::CrowdRelief.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentPaddingLeft = global::CrowdRelief.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentPaddingRight = global::CrowdRelief.Droid.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentPaddingTop = global::CrowdRelief.Droid.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.contentScrim = global::CrowdRelief.Droid.Resource.Attribute.contentScrim;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.controlBackground = global::CrowdRelief.Droid.Resource.Attribute.controlBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.counterEnabled = global::CrowdRelief.Droid.Resource.Attribute.counterEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.counterMaxLength = global::CrowdRelief.Droid.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.counterOverflowTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.counterTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.customNavigationLayout = global::CrowdRelief.Droid.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.defaultQueryHint = global::CrowdRelief.Droid.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dialogPreferredPadding = global::CrowdRelief.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dialogTheme = global::CrowdRelief.Droid.Resource.Attribute.dialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.displayOptions = global::CrowdRelief.Droid.Resource.Attribute.displayOptions;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.divider = global::CrowdRelief.Droid.Resource.Attribute.divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dividerHorizontal = global::CrowdRelief.Droid.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dividerPadding = global::CrowdRelief.Droid.Resource.Attribute.dividerPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dividerVertical = global::CrowdRelief.Droid.Resource.Attribute.dividerVertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.drawableSize = global::CrowdRelief.Droid.Resource.Attribute.drawableSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.drawerArrowStyle = global::CrowdRelief.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dropDownListViewStyle = global::CrowdRelief.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.dropdownListPreferredItemHeight = global::CrowdRelief.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.editTextBackground = global::CrowdRelief.Droid.Resource.Attribute.editTextBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.editTextColor = global::CrowdRelief.Droid.Resource.Attribute.editTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.editTextStyle = global::CrowdRelief.Droid.Resource.Attribute.editTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.elevation = global::CrowdRelief.Droid.Resource.Attribute.elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.errorEnabled = global::CrowdRelief.Droid.Resource.Attribute.errorEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.errorTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CrowdRelief.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expanded = global::CrowdRelief.Droid.Resource.Attribute.expanded;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleGravity = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleMargin = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleMarginBottom = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleMarginEnd = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleMarginStart = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleMarginTop = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.expandedTitleTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.externalRouteEnabledDrawable = global::CrowdRelief.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.fabSize = global::CrowdRelief.Droid.Resource.Attribute.fabSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.foregroundInsidePadding = global::CrowdRelief.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.gapBetweenBars = global::CrowdRelief.Droid.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.goIcon = global::CrowdRelief.Droid.Resource.Attribute.goIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.headerLayout = global::CrowdRelief.Droid.Resource.Attribute.headerLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.height = global::CrowdRelief.Droid.Resource.Attribute.height;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.hideOnContentScroll = global::CrowdRelief.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.hintAnimationEnabled = global::CrowdRelief.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.hintEnabled = global::CrowdRelief.Droid.Resource.Attribute.hintEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.hintTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.homeAsUpIndicator = global::CrowdRelief.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.homeLayout = global::CrowdRelief.Droid.Resource.Attribute.homeLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.icon = global::CrowdRelief.Droid.Resource.Attribute.icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.iconifiedByDefault = global::CrowdRelief.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.imageButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.indeterminateProgressStyle = global::CrowdRelief.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.initialActivityCount = global::CrowdRelief.Droid.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.insetForeground = global::CrowdRelief.Droid.Resource.Attribute.insetForeground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.isLightTheme = global::CrowdRelief.Droid.Resource.Attribute.isLightTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.itemBackground = global::CrowdRelief.Droid.Resource.Attribute.itemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.itemIconTint = global::CrowdRelief.Droid.Resource.Attribute.itemIconTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.itemPadding = global::CrowdRelief.Droid.Resource.Attribute.itemPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.itemTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.itemTextColor = global::CrowdRelief.Droid.Resource.Attribute.itemTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.keylines = global::CrowdRelief.Droid.Resource.Attribute.keylines;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout = global::CrowdRelief.Droid.Resource.Attribute.layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layoutManager = global::CrowdRelief.Droid.Resource.Attribute.layoutManager;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_anchor = global::CrowdRelief.Droid.Resource.Attribute.layout_anchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_anchorGravity = global::CrowdRelief.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_behavior = global::CrowdRelief.Droid.Resource.Attribute.layout_behavior;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_collapseMode = global::CrowdRelief.Droid.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_collapseParallaxMultiplier = global::CrowdRelief.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_dodgeInsetEdges = global::CrowdRelief.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_insetEdge = global::CrowdRelief.Droid.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_keyline = global::CrowdRelief.Droid.Resource.Attribute.layout_keyline;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_scrollFlags = global::CrowdRelief.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.layout_scrollInterpolator = global::CrowdRelief.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listChoiceBackgroundIndicator = global::CrowdRelief.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listDividerAlertDialog = global::CrowdRelief.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listItemLayout = global::CrowdRelief.Droid.Resource.Attribute.listItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listLayout = global::CrowdRelief.Droid.Resource.Attribute.listLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listMenuViewStyle = global::CrowdRelief.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPopupWindowStyle = global::CrowdRelief.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPreferredItemHeight = global::CrowdRelief.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPreferredItemHeightLarge = global::CrowdRelief.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPreferredItemHeightSmall = global::CrowdRelief.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPreferredItemPaddingLeft = global::CrowdRelief.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.listPreferredItemPaddingRight = global::CrowdRelief.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.logo = global::CrowdRelief.Droid.Resource.Attribute.logo;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.logoDescription = global::CrowdRelief.Droid.Resource.Attribute.logoDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.maxActionInlineWidth = global::CrowdRelief.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.maxButtonHeight = global::CrowdRelief.Droid.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.measureWithLargestChild = global::CrowdRelief.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteAudioTrackDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteCloseDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteDefaultIconDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRoutePauseDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRoutePlayDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteStopDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteTheme = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.mediaRouteTvIconDrawable = global::CrowdRelief.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.menu = global::CrowdRelief.Droid.Resource.Attribute.menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.multiChoiceItemLayout = global::CrowdRelief.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.navigationContentDescription = global::CrowdRelief.Droid.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.navigationIcon = global::CrowdRelief.Droid.Resource.Attribute.navigationIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.navigationMode = global::CrowdRelief.Droid.Resource.Attribute.navigationMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.overlapAnchor = global::CrowdRelief.Droid.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.paddingBottomNoButtons = global::CrowdRelief.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.paddingEnd = global::CrowdRelief.Droid.Resource.Attribute.paddingEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.paddingStart = global::CrowdRelief.Droid.Resource.Attribute.paddingStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.paddingTopNoTitle = global::CrowdRelief.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.panelBackground = global::CrowdRelief.Droid.Resource.Attribute.panelBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.panelMenuListTheme = global::CrowdRelief.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.panelMenuListWidth = global::CrowdRelief.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.passwordToggleContentDescription = global::CrowdRelief.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.passwordToggleDrawable = global::CrowdRelief.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.passwordToggleEnabled = global::CrowdRelief.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.passwordToggleTint = global::CrowdRelief.Droid.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.passwordToggleTintMode = global::CrowdRelief.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.popupMenuStyle = global::CrowdRelief.Droid.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.popupTheme = global::CrowdRelief.Droid.Resource.Attribute.popupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.popupWindowStyle = global::CrowdRelief.Droid.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.preserveIconSpacing = global::CrowdRelief.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.pressedTranslationZ = global::CrowdRelief.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.progressBarPadding = global::CrowdRelief.Droid.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.progressBarStyle = global::CrowdRelief.Droid.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.queryBackground = global::CrowdRelief.Droid.Resource.Attribute.queryBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.queryHint = global::CrowdRelief.Droid.Resource.Attribute.queryHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.radioButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.ratingBarStyle = global::CrowdRelief.Droid.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.ratingBarStyleIndicator = global::CrowdRelief.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.ratingBarStyleSmall = global::CrowdRelief.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.reverseLayout = global::CrowdRelief.Droid.Resource.Attribute.reverseLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.rippleColor = global::CrowdRelief.Droid.Resource.Attribute.rippleColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.scrimAnimationDuration = global::CrowdRelief.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.scrimVisibleHeightTrigger = global::CrowdRelief.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.searchHintIcon = global::CrowdRelief.Droid.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.searchIcon = global::CrowdRelief.Droid.Resource.Attribute.searchIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.searchViewStyle = global::CrowdRelief.Droid.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.seekBarStyle = global::CrowdRelief.Droid.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.selectableItemBackground = global::CrowdRelief.Droid.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.selectableItemBackgroundBorderless = global::CrowdRelief.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.showAsAction = global::CrowdRelief.Droid.Resource.Attribute.showAsAction;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.showDividers = global::CrowdRelief.Droid.Resource.Attribute.showDividers;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.showText = global::CrowdRelief.Droid.Resource.Attribute.showText;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.showTitle = global::CrowdRelief.Droid.Resource.Attribute.showTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.singleChoiceItemLayout = global::CrowdRelief.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.spanCount = global::CrowdRelief.Droid.Resource.Attribute.spanCount;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.spinBars = global::CrowdRelief.Droid.Resource.Attribute.spinBars;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.spinnerDropDownItemStyle = global::CrowdRelief.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.spinnerStyle = global::CrowdRelief.Droid.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.splitTrack = global::CrowdRelief.Droid.Resource.Attribute.splitTrack;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.srcCompat = global::CrowdRelief.Droid.Resource.Attribute.srcCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.stackFromEnd = global::CrowdRelief.Droid.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.state_above_anchor = global::CrowdRelief.Droid.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.state_collapsed = global::CrowdRelief.Droid.Resource.Attribute.state_collapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.state_collapsible = global::CrowdRelief.Droid.Resource.Attribute.state_collapsible;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.statusBarBackground = global::CrowdRelief.Droid.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.statusBarScrim = global::CrowdRelief.Droid.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.subMenuArrow = global::CrowdRelief.Droid.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.submitBackground = global::CrowdRelief.Droid.Resource.Attribute.submitBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.subtitle = global::CrowdRelief.Droid.Resource.Attribute.subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.subtitleTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.subtitleTextColor = global::CrowdRelief.Droid.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.subtitleTextStyle = global::CrowdRelief.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.suggestionRowLayout = global::CrowdRelief.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.switchMinWidth = global::CrowdRelief.Droid.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.switchPadding = global::CrowdRelief.Droid.Resource.Attribute.switchPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.switchStyle = global::CrowdRelief.Droid.Resource.Attribute.switchStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.switchTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabBackground = global::CrowdRelief.Droid.Resource.Attribute.tabBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabContentStart = global::CrowdRelief.Droid.Resource.Attribute.tabContentStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabGravity = global::CrowdRelief.Droid.Resource.Attribute.tabGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabIndicatorColor = global::CrowdRelief.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabIndicatorHeight = global::CrowdRelief.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabMaxWidth = global::CrowdRelief.Droid.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabMinWidth = global::CrowdRelief.Droid.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabMode = global::CrowdRelief.Droid.Resource.Attribute.tabMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabPadding = global::CrowdRelief.Droid.Resource.Attribute.tabPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabPaddingBottom = global::CrowdRelief.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabPaddingEnd = global::CrowdRelief.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabPaddingStart = global::CrowdRelief.Droid.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabPaddingTop = global::CrowdRelief.Droid.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabSelectedTextColor = global::CrowdRelief.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tabTextColor = global::CrowdRelief.Droid.Resource.Attribute.tabTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAllCaps = global::CrowdRelief.Droid.Resource.Attribute.textAllCaps;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceLargePopupMenu = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceListItem = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceListItemSmall = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearancePopupMenuHeader = global::CrowdRelief.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceSearchResultTitle = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textAppearanceSmallPopupMenu = global::CrowdRelief.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textColorAlertDialogListItem = global::CrowdRelief.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textColorError = global::CrowdRelief.Droid.Resource.Attribute.textColorError;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.textColorSearchUrl = global::CrowdRelief.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.theme = global::CrowdRelief.Droid.Resource.Attribute.theme;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.thickness = global::CrowdRelief.Droid.Resource.Attribute.thickness;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.thumbTextPadding = global::CrowdRelief.Droid.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.thumbTint = global::CrowdRelief.Droid.Resource.Attribute.thumbTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.thumbTintMode = global::CrowdRelief.Droid.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tickMark = global::CrowdRelief.Droid.Resource.Attribute.tickMark;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tickMarkTint = global::CrowdRelief.Droid.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.tickMarkTintMode = global::CrowdRelief.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.title = global::CrowdRelief.Droid.Resource.Attribute.title;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleEnabled = global::CrowdRelief.Droid.Resource.Attribute.titleEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMargin = global::CrowdRelief.Droid.Resource.Attribute.titleMargin;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMarginBottom = global::CrowdRelief.Droid.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMarginEnd = global::CrowdRelief.Droid.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMarginStart = global::CrowdRelief.Droid.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMarginTop = global::CrowdRelief.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleMargins = global::CrowdRelief.Droid.Resource.Attribute.titleMargins;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleTextAppearance = global::CrowdRelief.Droid.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleTextColor = global::CrowdRelief.Droid.Resource.Attribute.titleTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.titleTextStyle = global::CrowdRelief.Droid.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.toolbarId = global::CrowdRelief.Droid.Resource.Attribute.toolbarId;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.toolbarNavigationButtonStyle = global::CrowdRelief.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.toolbarStyle = global::CrowdRelief.Droid.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.track = global::CrowdRelief.Droid.Resource.Attribute.track;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.trackTint = global::CrowdRelief.Droid.Resource.Attribute.trackTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.trackTintMode = global::CrowdRelief.Droid.Resource.Attribute.trackTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.useCompatPadding = global::CrowdRelief.Droid.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.voiceIcon = global::CrowdRelief.Droid.Resource.Attribute.voiceIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowActionBar = global::CrowdRelief.Droid.Resource.Attribute.windowActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowActionBarOverlay = global::CrowdRelief.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowActionModeOverlay = global::CrowdRelief.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowFixedHeightMajor = global::CrowdRelief.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowFixedHeightMinor = global::CrowdRelief.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowFixedWidthMajor = global::CrowdRelief.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowFixedWidthMinor = global::CrowdRelief.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowMinWidthMajor = global::CrowdRelief.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowMinWidthMinor = global::CrowdRelief.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Attribute.windowNoTitle = global::CrowdRelief.Droid.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Boolean.abc_action_bar_embed_tabs = global::CrowdRelief.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Auth.XamarinForms.Resource.Boolean.abc_allow_stacked_button_bar = global::CrowdRelief.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CrowdRelief.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Auth.XamarinForms.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::CrowdRelief.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Xamarin.Auth.XamarinForms.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::CrowdRelief.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CrowdRelief.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_background_cache_hint_selector_material_light = global::CrowdRelief.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_btn_colored_borderless_text_material = global::CrowdRelief.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_btn_colored_text_material = global::CrowdRelief.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_color_highlight_material = global::CrowdRelief.Droid.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_hint_foreground_material_dark = global::CrowdRelief.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_hint_foreground_material_light = global::CrowdRelief.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_input_method_navigation_guard = global::CrowdRelief.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_primary_text_disable_only_material_dark = global::CrowdRelief.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_primary_text_disable_only_material_light = global::CrowdRelief.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_primary_text_material_dark = global::CrowdRelief.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_primary_text_material_light = global::CrowdRelief.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_search_url_text = global::CrowdRelief.Droid.Resource.Color.abc_search_url_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_search_url_text_normal = global::CrowdRelief.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_search_url_text_pressed = global::CrowdRelief.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_search_url_text_selected = global::CrowdRelief.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_secondary_text_material_dark = global::CrowdRelief.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_secondary_text_material_light = global::CrowdRelief.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_btn_checkable = global::CrowdRelief.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_default = global::CrowdRelief.Droid.Resource.Color.abc_tint_default;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_edittext = global::CrowdRelief.Droid.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_seek_thumb = global::CrowdRelief.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_spinner = global::CrowdRelief.Droid.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_switch_thumb = global::CrowdRelief.Droid.Resource.Color.abc_tint_switch_thumb;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.abc_tint_switch_track = global::CrowdRelief.Droid.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.accent_material_dark = global::CrowdRelief.Droid.Resource.Color.accent_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.accent_material_light = global::CrowdRelief.Droid.Resource.Color.accent_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.background_floating_material_dark = global::CrowdRelief.Droid.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.background_floating_material_light = global::CrowdRelief.Droid.Resource.Color.background_floating_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.background_material_dark = global::CrowdRelief.Droid.Resource.Color.background_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.background_material_light = global::CrowdRelief.Droid.Resource.Color.background_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_disabled_material_dark = global::CrowdRelief.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_disabled_material_light = global::CrowdRelief.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_inverse_material_dark = global::CrowdRelief.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_inverse_material_light = global::CrowdRelief.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_material_dark = global::CrowdRelief.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.bright_foreground_material_light = global::CrowdRelief.Droid.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.button_material_dark = global::CrowdRelief.Droid.Resource.Color.button_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.button_material_light = global::CrowdRelief.Droid.Resource.Color.button_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.cardview_dark_background = global::CrowdRelief.Droid.Resource.Color.cardview_dark_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.cardview_light_background = global::CrowdRelief.Droid.Resource.Color.cardview_light_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.cardview_shadow_end_color = global::CrowdRelief.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.cardview_shadow_start_color = global::CrowdRelief.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_bottom_navigation_shadow_color = global::CrowdRelief.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_error = global::CrowdRelief.Droid.Resource.Color.design_error;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_shadow_end_color = global::CrowdRelief.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_shadow_mid_color = global::CrowdRelief.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_shadow_start_color = global::CrowdRelief.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_stroke_end_inner_color = global::CrowdRelief.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_stroke_end_outer_color = global::CrowdRelief.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_stroke_top_inner_color = global::CrowdRelief.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_fab_stroke_top_outer_color = global::CrowdRelief.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_snackbar_background_color = global::CrowdRelief.Droid.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_textinput_error_color_dark = global::CrowdRelief.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_textinput_error_color_light = global::CrowdRelief.Droid.Resource.Color.design_textinput_error_color_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.design_tint_password_toggle = global::CrowdRelief.Droid.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.dim_foreground_disabled_material_dark = global::CrowdRelief.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.dim_foreground_disabled_material_light = global::CrowdRelief.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.dim_foreground_material_dark = global::CrowdRelief.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.dim_foreground_material_light = global::CrowdRelief.Droid.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.foreground_material_dark = global::CrowdRelief.Droid.Resource.Color.foreground_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.foreground_material_light = global::CrowdRelief.Droid.Resource.Color.foreground_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.highlighted_text_material_dark = global::CrowdRelief.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.highlighted_text_material_light = global::CrowdRelief.Droid.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_blue_grey_800 = global::CrowdRelief.Droid.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_blue_grey_900 = global::CrowdRelief.Droid.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_blue_grey_950 = global::CrowdRelief.Droid.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_deep_teal_200 = global::CrowdRelief.Droid.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_deep_teal_500 = global::CrowdRelief.Droid.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_100 = global::CrowdRelief.Droid.Resource.Color.material_grey_100;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_300 = global::CrowdRelief.Droid.Resource.Color.material_grey_300;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_50 = global::CrowdRelief.Droid.Resource.Color.material_grey_50;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_600 = global::CrowdRelief.Droid.Resource.Color.material_grey_600;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_800 = global::CrowdRelief.Droid.Resource.Color.material_grey_800;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_850 = global::CrowdRelief.Droid.Resource.Color.material_grey_850;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.material_grey_900 = global::CrowdRelief.Droid.Resource.Color.material_grey_900;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.notification_action_color_filter = global::CrowdRelief.Droid.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.notification_icon_bg_color = global::CrowdRelief.Droid.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.notification_material_background_media_default_color = global::CrowdRelief.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_dark_material_dark = global::CrowdRelief.Droid.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_dark_material_light = global::CrowdRelief.Droid.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_material_dark = global::CrowdRelief.Droid.Resource.Color.primary_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_material_light = global::CrowdRelief.Droid.Resource.Color.primary_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_text_default_material_dark = global::CrowdRelief.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_text_default_material_light = global::CrowdRelief.Droid.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_text_disabled_material_dark = global::CrowdRelief.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.primary_text_disabled_material_light = global::CrowdRelief.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.ripple_material_dark = global::CrowdRelief.Droid.Resource.Color.ripple_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.ripple_material_light = global::CrowdRelief.Droid.Resource.Color.ripple_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.secondary_text_default_material_dark = global::CrowdRelief.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.secondary_text_default_material_light = global::CrowdRelief.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.secondary_text_disabled_material_dark = global::CrowdRelief.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.secondary_text_disabled_material_light = global::CrowdRelief.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_disabled_material_dark = global::CrowdRelief.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_disabled_material_light = global::CrowdRelief.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_material_dark = global::CrowdRelief.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_material_light = global::CrowdRelief.Droid.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_normal_material_dark = global::CrowdRelief.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Color.switch_thumb_normal_material_light = global::CrowdRelief.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_content_inset_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_default_height_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_elevation_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_progress_bar_size = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_stacked_max_height = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_button_min_height_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_button_min_width_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CrowdRelief.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CrowdRelief.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_button_inset_horizontal_material = global::CrowdRelief.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_button_inset_vertical_material = global::CrowdRelief.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_button_padding_horizontal_material = global::CrowdRelief.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_button_padding_vertical_material = global::CrowdRelief.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::CrowdRelief.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_config_prefDialogWidth = global::CrowdRelief.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_control_corner_material = global::CrowdRelief.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_control_inset_material = global::CrowdRelief.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_control_padding_material = global::CrowdRelief.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_fixed_height_major = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_fixed_height_minor = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_fixed_width_major = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_fixed_width_minor = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_min_width_major = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_min_width_minor = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_padding_material = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_padding_top_material = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dialog_title_divider_material = global::CrowdRelief.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_disabled_alpha_material_dark = global::CrowdRelief.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_disabled_alpha_material_light = global::CrowdRelief.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dropdownitem_icon_width = global::CrowdRelief.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CrowdRelief.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CrowdRelief.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CrowdRelief.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CrowdRelief.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_edit_text_inset_top_material = global::CrowdRelief.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_floating_window_z = global::CrowdRelief.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CrowdRelief.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_panel_menu_list_width = global::CrowdRelief.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_progress_bar_height_material = global::CrowdRelief.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_search_view_preferred_height = global::CrowdRelief.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_search_view_preferred_width = global::CrowdRelief.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_seekbar_track_background_height_material = global::CrowdRelief.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CrowdRelief.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_select_dialog_padding_start_material = global::CrowdRelief.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_switch_padding = global::CrowdRelief.Droid.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_body_1_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_body_2_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_button_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_caption_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_display_1_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_display_2_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_display_3_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_display_4_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_headline_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_large_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_medium_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_menu_header_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_menu_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_small_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_subhead_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_title_material = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.abc_text_size_title_material_toolbar = global::CrowdRelief.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.cardview_compat_inset_shadow = global::CrowdRelief.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.cardview_default_elevation = global::CrowdRelief.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.cardview_default_radius = global::CrowdRelief.Droid.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_appbar_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_active_text_size = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_height = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_item_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_item_min_width = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_margin = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_shadow_height = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_navigation_text_size = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_sheet_modal_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_bottom_sheet_peek_height_min = global::CrowdRelief.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_border_width = global::CrowdRelief.Droid.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_image_size = global::CrowdRelief.Droid.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_size_mini = global::CrowdRelief.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_size_normal = global::CrowdRelief.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_fab_translation_z_pressed = global::CrowdRelief.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_icon_padding = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_icon_size = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_padding_bottom = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_navigation_separator_vertical_padding = global::CrowdRelief.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_action_inline_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_background_corner_radius = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_elevation = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_min_width = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_padding_horizontal = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_padding_vertical = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_snackbar_text_size = global::CrowdRelief.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_tab_max_width = global::CrowdRelief.Droid.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_tab_scrollable_min_width = global::CrowdRelief.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_tab_text_size = global::CrowdRelief.Droid.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.design_tab_text_size_2line = global::CrowdRelief.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.disabled_alpha_material_dark = global::CrowdRelief.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.disabled_alpha_material_light = global::CrowdRelief.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.highlight_alpha_material_colored = global::CrowdRelief.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.highlight_alpha_material_dark = global::CrowdRelief.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.highlight_alpha_material_light = global::CrowdRelief.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.hint_alpha_material_dark = global::CrowdRelief.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.hint_alpha_material_light = global::CrowdRelief.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.hint_pressed_alpha_material_dark = global::CrowdRelief.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.hint_pressed_alpha_material_light = global::CrowdRelief.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::CrowdRelief.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::CrowdRelief.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::CrowdRelief.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_controller_volume_group_list_item_height = global::CrowdRelief.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::CrowdRelief.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_controller_volume_group_list_max_height = global::CrowdRelief.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::CrowdRelief.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_dialog_fixed_width_major = global::CrowdRelief.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.mr_dialog_fixed_width_minor = global::CrowdRelief.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_action_icon_size = global::CrowdRelief.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_action_text_size = global::CrowdRelief.Droid.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_big_circle_margin = global::CrowdRelief.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_content_margin_start = global::CrowdRelief.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_large_icon_height = global::CrowdRelief.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_large_icon_width = global::CrowdRelief.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_main_column_padding_top = global::CrowdRelief.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_media_narrow_margin = global::CrowdRelief.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_right_icon_size = global::CrowdRelief.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_right_side_padding_top = global::CrowdRelief.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_small_icon_background_padding = global::CrowdRelief.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_small_icon_size_as_large = global::CrowdRelief.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_subtext_size = global::CrowdRelief.Droid.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_top_pad = global::CrowdRelief.Droid.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Auth.XamarinForms.Resource.Dimension.notification_top_pad_large_text = global::CrowdRelief.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_action_bar_item_background_material = global::CrowdRelief.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_borderless_material = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_check_material = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_colored_material = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_default_mtrl_shape = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_radio_material = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CrowdRelief.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_cab_background_internal_bg = global::CrowdRelief.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_cab_background_top_material = global::CrowdRelief.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_control_background_material = global::CrowdRelief.Droid.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_dialog_material_background = global::CrowdRelief.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_edit_text_material = global::CrowdRelief.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_ab_back_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_clear_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_go_search_api_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_overflow_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_search_api_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_black_16dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_black_36dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_black_48dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_half_black_16dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_half_black_36dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_star_half_black_48dp = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ic_voice_search_api_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_item_background_holo_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_item_background_holo_light = global::CrowdRelief.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_focused_holo = global::CrowdRelief.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_longpressed_holo = global::CrowdRelief.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_pressed_holo_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_pressed_holo_light = global::CrowdRelief.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_holo_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_list_selector_holo_light = global::CrowdRelief.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CrowdRelief.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_popup_background_mtrl_mult = global::CrowdRelief.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ratingbar_indicator_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ratingbar_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_ratingbar_small_material = global::CrowdRelief.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CrowdRelief.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CrowdRelief.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_seekbar_thumb_material = global::CrowdRelief.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_seekbar_tick_mark_material = global::CrowdRelief.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_seekbar_track_material = global::CrowdRelief.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_spinner_textfield_background_material = global::CrowdRelief.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_switch_thumb_material = global::CrowdRelief.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_tab_indicator_material = global::CrowdRelief.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_cursor_material = global::CrowdRelief.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CrowdRelief.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CrowdRelief.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_textfield_search_material = global::CrowdRelief.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.abc_vector_test = global::CrowdRelief.Droid.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.avd_hide_password = global::CrowdRelief.Droid.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.avd_show_password = global::CrowdRelief.Droid.Resource.Drawable.avd_show_password;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_bottom_navigation_item_background = global::CrowdRelief.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_fab_background = global::CrowdRelief.Droid.Resource.Drawable.design_fab_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_ic_visibility = global::CrowdRelief.Droid.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_ic_visibility_off = global::CrowdRelief.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_password_eye = global::CrowdRelief.Droid.Resource.Drawable.design_password_eye;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.design_snackbar_background = global::CrowdRelief.Droid.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_arrow_back = global::CrowdRelief.Droid.Resource.Drawable.ic_arrow_back;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_audiotrack_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_audiotrack_light = global::CrowdRelief.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_dialog_close_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_dialog_close_light = global::CrowdRelief.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_00 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_01 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_02 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_03 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_04 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_05 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_06 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_07 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_08 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_09 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_10 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_11 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_12 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_13 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_14 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_collapse_15 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_00 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_00;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_01 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_01;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_02 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_02;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_03 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_03;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_04 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_04;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_05 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_05;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_06 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_06;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_07 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_07;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_08 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_08;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_09 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_09;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_10 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_10;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_11 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_11;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_12 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_12;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_13 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_13;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_14 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_14;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_group_expand_15 = global::CrowdRelief.Droid.Resource.Drawable.ic_group_expand_15;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_pause_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_pause_light = global::CrowdRelief.Droid.Resource.Drawable.ic_media_pause_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_play_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_media_play_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_play_light = global::CrowdRelief.Droid.Resource.Drawable.ic_media_play_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_stop_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_media_stop_light = global::CrowdRelief.Droid.Resource.Drawable.ic_media_stop_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_00_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_00_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_01_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_01_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_02_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_02_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_03_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_03_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_04_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_04_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_05_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_05_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_06_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_06_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_07_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_07_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_08_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_08_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_09_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_09_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_10_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_10_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_11_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_11_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_12_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_12_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_13_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_13_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_14_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_14_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_15_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_15_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_16_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_16_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_17_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_17_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_18_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_18_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_19_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_19_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_20_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_20_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_21_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_21_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_22_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connected_22_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_00_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_00_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_01_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_01_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_02_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_02_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_03_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_03_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_04_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_04_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_05_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_05_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_06_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_06_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_07_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_07_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_08_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_08_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_09_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_09_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_10_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_10_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_11_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_11_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_12_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_12_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_13_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_13_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_14_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_14_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_15_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_15_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_16_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_16_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_17_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_17_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_18_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_18_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_19_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_19_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_20_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_20_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_21_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_21_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_22_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_connecting_22_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_disabled_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_disabled_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_disconnected_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_disconnected_light = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_mr_button_grey = global::CrowdRelief.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_speaker_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_speaker_group_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_speaker_group_light = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_speaker_light = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_tv_dark = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.ic_vol_type_tv_light = global::CrowdRelief.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_connected_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_connected_light = global::CrowdRelief.Droid.Resource.Drawable.mr_button_connected_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_connecting_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_connecting_light = global::CrowdRelief.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_button_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_button_light = global::CrowdRelief.Droid.Resource.Drawable.mr_button_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_dialog_close_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_dialog_close_light = global::CrowdRelief.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_dialog_material_background_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_dialog_material_background_light = global::CrowdRelief.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_group_collapse = global::CrowdRelief.Droid.Resource.Drawable.mr_group_collapse;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_group_expand = global::CrowdRelief.Droid.Resource.Drawable.mr_group_expand;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_pause_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_pause_light = global::CrowdRelief.Droid.Resource.Drawable.mr_media_pause_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_play_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_media_play_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_play_light = global::CrowdRelief.Droid.Resource.Drawable.mr_media_play_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_stop_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_media_stop_light = global::CrowdRelief.Droid.Resource.Drawable.mr_media_stop_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_vol_type_audiotrack_dark = global::CrowdRelief.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.mr_vol_type_audiotrack_light = global::CrowdRelief.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.navigation_empty_icon = global::CrowdRelief.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_action_background = global::CrowdRelief.Droid.Resource.Drawable.notification_action_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg = global::CrowdRelief.Droid.Resource.Drawable.notification_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg_low = global::CrowdRelief.Droid.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg_low_normal = global::CrowdRelief.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg_low_pressed = global::CrowdRelief.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg_normal = global::CrowdRelief.Droid.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_bg_normal_pressed = global::CrowdRelief.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_icon_background = global::CrowdRelief.Droid.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_template_icon_bg = global::CrowdRelief.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_template_icon_low_bg = global::CrowdRelief.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notification_tile_bg = global::CrowdRelief.Droid.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Drawable.notify_panel_notification_icon_bg = global::CrowdRelief.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action0 = global::CrowdRelief.Droid.Resource.Id.action0;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar = global::CrowdRelief.Droid.Resource.Id.action_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_activity_content = global::CrowdRelief.Droid.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_container = global::CrowdRelief.Droid.Resource.Id.action_bar_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_root = global::CrowdRelief.Droid.Resource.Id.action_bar_root;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_spinner = global::CrowdRelief.Droid.Resource.Id.action_bar_spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_subtitle = global::CrowdRelief.Droid.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_bar_title = global::CrowdRelief.Droid.Resource.Id.action_bar_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_container = global::CrowdRelief.Droid.Resource.Id.action_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_context_bar = global::CrowdRelief.Droid.Resource.Id.action_context_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_divider = global::CrowdRelief.Droid.Resource.Id.action_divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_image = global::CrowdRelief.Droid.Resource.Id.action_image;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_menu_divider = global::CrowdRelief.Droid.Resource.Id.action_menu_divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_menu_presenter = global::CrowdRelief.Droid.Resource.Id.action_menu_presenter;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_mode_bar = global::CrowdRelief.Droid.Resource.Id.action_mode_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_mode_bar_stub = global::CrowdRelief.Droid.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_mode_close_button = global::CrowdRelief.Droid.Resource.Id.action_mode_close_button;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.action_text = global::CrowdRelief.Droid.Resource.Id.action_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.actions = global::CrowdRelief.Droid.Resource.Id.actions;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.activity_chooser_view_content = global::CrowdRelief.Droid.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.add = global::CrowdRelief.Droid.Resource.Id.add;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.alertTitle = global::CrowdRelief.Droid.Resource.Id.alertTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.all = global::CrowdRelief.Droid.Resource.Id.all;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.always = global::CrowdRelief.Droid.Resource.Id.always;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.auto = global::CrowdRelief.Droid.Resource.Id.auto;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.beginning = global::CrowdRelief.Droid.Resource.Id.beginning;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.bottom = global::CrowdRelief.Droid.Resource.Id.bottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.buttonPanel = global::CrowdRelief.Droid.Resource.Id.buttonPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.cancel_action = global::CrowdRelief.Droid.Resource.Id.cancel_action;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.center = global::CrowdRelief.Droid.Resource.Id.center;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.center_horizontal = global::CrowdRelief.Droid.Resource.Id.center_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.center_vertical = global::CrowdRelief.Droid.Resource.Id.center_vertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.checkbox = global::CrowdRelief.Droid.Resource.Id.checkbox;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.chronometer = global::CrowdRelief.Droid.Resource.Id.chronometer;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.clip_horizontal = global::CrowdRelief.Droid.Resource.Id.clip_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.clip_vertical = global::CrowdRelief.Droid.Resource.Id.clip_vertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.collapseActionView = global::CrowdRelief.Droid.Resource.Id.collapseActionView;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.contentPanel = global::CrowdRelief.Droid.Resource.Id.contentPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.custom = global::CrowdRelief.Droid.Resource.Id.custom;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.customPanel = global::CrowdRelief.Droid.Resource.Id.customPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.decor_content_parent = global::CrowdRelief.Droid.Resource.Id.decor_content_parent;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.default_activity_button = global::CrowdRelief.Droid.Resource.Id.default_activity_button;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.design_bottom_sheet = global::CrowdRelief.Droid.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.design_menu_item_action_area = global::CrowdRelief.Droid.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.design_menu_item_action_area_stub = global::CrowdRelief.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.design_menu_item_text = global::CrowdRelief.Droid.Resource.Id.design_menu_item_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.design_navigation_view = global::CrowdRelief.Droid.Resource.Id.design_navigation_view;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.disableHome = global::CrowdRelief.Droid.Resource.Id.disableHome;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.edit_query = global::CrowdRelief.Droid.Resource.Id.edit_query;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.end = global::CrowdRelief.Droid.Resource.Id.end;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.end_padder = global::CrowdRelief.Droid.Resource.Id.end_padder;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.enterAlways = global::CrowdRelief.Droid.Resource.Id.enterAlways;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.enterAlwaysCollapsed = global::CrowdRelief.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.exitUntilCollapsed = global::CrowdRelief.Droid.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.expand_activities_button = global::CrowdRelief.Droid.Resource.Id.expand_activities_button;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.expanded_menu = global::CrowdRelief.Droid.Resource.Id.expanded_menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.fill = global::CrowdRelief.Droid.Resource.Id.fill;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.fill_horizontal = global::CrowdRelief.Droid.Resource.Id.fill_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.fill_vertical = global::CrowdRelief.Droid.Resource.Id.fill_vertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.@fixed = global::CrowdRelief.Droid.Resource.Id.@fixed;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.home = global::CrowdRelief.Droid.Resource.Id.home;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.homeAsUp = global::CrowdRelief.Droid.Resource.Id.homeAsUp;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.icon = global::CrowdRelief.Droid.Resource.Id.icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.icon_group = global::CrowdRelief.Droid.Resource.Id.icon_group;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.ifRoom = global::CrowdRelief.Droid.Resource.Id.ifRoom;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.image = global::CrowdRelief.Droid.Resource.Id.image;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.info = global::CrowdRelief.Droid.Resource.Id.info;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.item_touch_helper_previous_elevation = global::CrowdRelief.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.largeLabel = global::CrowdRelief.Droid.Resource.Id.largeLabel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.left = global::CrowdRelief.Droid.Resource.Id.left;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.line1 = global::CrowdRelief.Droid.Resource.Id.line1;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.line3 = global::CrowdRelief.Droid.Resource.Id.line3;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.listMode = global::CrowdRelief.Droid.Resource.Id.listMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.list_item = global::CrowdRelief.Droid.Resource.Id.list_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.masked = global::CrowdRelief.Droid.Resource.Id.masked;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.media_actions = global::CrowdRelief.Droid.Resource.Id.media_actions;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.middle = global::CrowdRelief.Droid.Resource.Id.middle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mini = global::CrowdRelief.Droid.Resource.Id.mini;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_art = global::CrowdRelief.Droid.Resource.Id.mr_art;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_chooser_list = global::CrowdRelief.Droid.Resource.Id.mr_chooser_list;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_chooser_route_desc = global::CrowdRelief.Droid.Resource.Id.mr_chooser_route_desc;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_chooser_route_icon = global::CrowdRelief.Droid.Resource.Id.mr_chooser_route_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_chooser_route_name = global::CrowdRelief.Droid.Resource.Id.mr_chooser_route_name;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_chooser_title = global::CrowdRelief.Droid.Resource.Id.mr_chooser_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_close = global::CrowdRelief.Droid.Resource.Id.mr_close;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_control_divider = global::CrowdRelief.Droid.Resource.Id.mr_control_divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_control_playback_ctrl = global::CrowdRelief.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_control_subtitle = global::CrowdRelief.Droid.Resource.Id.mr_control_subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_control_title = global::CrowdRelief.Droid.Resource.Id.mr_control_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_control_title_container = global::CrowdRelief.Droid.Resource.Id.mr_control_title_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_custom_control = global::CrowdRelief.Droid.Resource.Id.mr_custom_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_default_control = global::CrowdRelief.Droid.Resource.Id.mr_default_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_dialog_area = global::CrowdRelief.Droid.Resource.Id.mr_dialog_area;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_expandable_area = global::CrowdRelief.Droid.Resource.Id.mr_expandable_area;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_group_expand_collapse = global::CrowdRelief.Droid.Resource.Id.mr_group_expand_collapse;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_media_main_control = global::CrowdRelief.Droid.Resource.Id.mr_media_main_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_name = global::CrowdRelief.Droid.Resource.Id.mr_name;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_playback_control = global::CrowdRelief.Droid.Resource.Id.mr_playback_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_title_bar = global::CrowdRelief.Droid.Resource.Id.mr_title_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_volume_control = global::CrowdRelief.Droid.Resource.Id.mr_volume_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_volume_group_list = global::CrowdRelief.Droid.Resource.Id.mr_volume_group_list;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_volume_item_icon = global::CrowdRelief.Droid.Resource.Id.mr_volume_item_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.mr_volume_slider = global::CrowdRelief.Droid.Resource.Id.mr_volume_slider;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.multiply = global::CrowdRelief.Droid.Resource.Id.multiply;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.navigation_header_container = global::CrowdRelief.Droid.Resource.Id.navigation_header_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.never = global::CrowdRelief.Droid.Resource.Id.never;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.none = global::CrowdRelief.Droid.Resource.Id.none;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.normal = global::CrowdRelief.Droid.Resource.Id.normal;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.notification_background = global::CrowdRelief.Droid.Resource.Id.notification_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.notification_main_column = global::CrowdRelief.Droid.Resource.Id.notification_main_column;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.notification_main_column_container = global::CrowdRelief.Droid.Resource.Id.notification_main_column_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.parallax = global::CrowdRelief.Droid.Resource.Id.parallax;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.parentPanel = global::CrowdRelief.Droid.Resource.Id.parentPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.pin = global::CrowdRelief.Droid.Resource.Id.pin;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.progress_circular = global::CrowdRelief.Droid.Resource.Id.progress_circular;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.progress_horizontal = global::CrowdRelief.Droid.Resource.Id.progress_horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.radio = global::CrowdRelief.Droid.Resource.Id.radio;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.right = global::CrowdRelief.Droid.Resource.Id.right;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.right_icon = global::CrowdRelief.Droid.Resource.Id.right_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.right_side = global::CrowdRelief.Droid.Resource.Id.right_side;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.screen = global::CrowdRelief.Droid.Resource.Id.screen;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.scroll = global::CrowdRelief.Droid.Resource.Id.scroll;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.scrollIndicatorDown = global::CrowdRelief.Droid.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.scrollIndicatorUp = global::CrowdRelief.Droid.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.scrollView = global::CrowdRelief.Droid.Resource.Id.scrollView;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.scrollable = global::CrowdRelief.Droid.Resource.Id.scrollable;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_badge = global::CrowdRelief.Droid.Resource.Id.search_badge;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_bar = global::CrowdRelief.Droid.Resource.Id.search_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_button = global::CrowdRelief.Droid.Resource.Id.search_button;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_close_btn = global::CrowdRelief.Droid.Resource.Id.search_close_btn;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_edit_frame = global::CrowdRelief.Droid.Resource.Id.search_edit_frame;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_go_btn = global::CrowdRelief.Droid.Resource.Id.search_go_btn;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_mag_icon = global::CrowdRelief.Droid.Resource.Id.search_mag_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_plate = global::CrowdRelief.Droid.Resource.Id.search_plate;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_src_text = global::CrowdRelief.Droid.Resource.Id.search_src_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.search_voice_btn = global::CrowdRelief.Droid.Resource.Id.search_voice_btn;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.select_dialog_listview = global::CrowdRelief.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.shortcut = global::CrowdRelief.Droid.Resource.Id.shortcut;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.showCustom = global::CrowdRelief.Droid.Resource.Id.showCustom;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.showHome = global::CrowdRelief.Droid.Resource.Id.showHome;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.showTitle = global::CrowdRelief.Droid.Resource.Id.showTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.smallLabel = global::CrowdRelief.Droid.Resource.Id.smallLabel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.snackbar_action = global::CrowdRelief.Droid.Resource.Id.snackbar_action;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.snackbar_text = global::CrowdRelief.Droid.Resource.Id.snackbar_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.snap = global::CrowdRelief.Droid.Resource.Id.snap;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.spacer = global::CrowdRelief.Droid.Resource.Id.spacer;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.split_action_bar = global::CrowdRelief.Droid.Resource.Id.split_action_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.src_atop = global::CrowdRelief.Droid.Resource.Id.src_atop;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.src_in = global::CrowdRelief.Droid.Resource.Id.src_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.src_over = global::CrowdRelief.Droid.Resource.Id.src_over;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.start = global::CrowdRelief.Droid.Resource.Id.start;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.status_bar_latest_event_content = global::CrowdRelief.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.submenuarrow = global::CrowdRelief.Droid.Resource.Id.submenuarrow;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.submit_area = global::CrowdRelief.Droid.Resource.Id.submit_area;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.tabMode = global::CrowdRelief.Droid.Resource.Id.tabMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.text = global::CrowdRelief.Droid.Resource.Id.text;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.text2 = global::CrowdRelief.Droid.Resource.Id.text2;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.textSpacerNoButtons = global::CrowdRelief.Droid.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.textSpacerNoTitle = global::CrowdRelief.Droid.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.text_input_password_toggle = global::CrowdRelief.Droid.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.textinput_counter = global::CrowdRelief.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.textinput_error = global::CrowdRelief.Droid.Resource.Id.textinput_error;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.time = global::CrowdRelief.Droid.Resource.Id.time;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.title = global::CrowdRelief.Droid.Resource.Id.title;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.titleDividerNoCustom = global::CrowdRelief.Droid.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.title_template = global::CrowdRelief.Droid.Resource.Id.title_template;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.top = global::CrowdRelief.Droid.Resource.Id.top;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.topPanel = global::CrowdRelief.Droid.Resource.Id.topPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.touch_outside = global::CrowdRelief.Droid.Resource.Id.touch_outside;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.transition_current_scene = global::CrowdRelief.Droid.Resource.Id.transition_current_scene;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.transition_scene_layoutid_cache = global::CrowdRelief.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.up = global::CrowdRelief.Droid.Resource.Id.up;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.useLogo = global::CrowdRelief.Droid.Resource.Id.useLogo;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.view_offset_helper = global::CrowdRelief.Droid.Resource.Id.view_offset_helper;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.visible = global::CrowdRelief.Droid.Resource.Id.visible;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.volume_item_container = global::CrowdRelief.Droid.Resource.Id.volume_item_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.webview = global::CrowdRelief.Droid.Resource.Id.webview;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.withText = global::CrowdRelief.Droid.Resource.Id.withText;
+			global::Xamarin.Auth.XamarinForms.Resource.Id.wrap_content = global::CrowdRelief.Droid.Resource.Id.wrap_content;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.abc_config_activityDefaultDur = global::CrowdRelief.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.abc_config_activityShortDur = global::CrowdRelief.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.app_bar_elevation_anim_duration = global::CrowdRelief.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.bottom_sheet_slide_duration = global::CrowdRelief.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.cancel_button_image_alpha = global::CrowdRelief.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.design_snackbar_text_max_lines = global::CrowdRelief.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.hide_password_duration = global::CrowdRelief.Droid.Resource.Integer.hide_password_duration;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::CrowdRelief.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::CrowdRelief.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::CrowdRelief.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.show_password_duration = global::CrowdRelief.Droid.Resource.Integer.show_password_duration;
+			global::Xamarin.Auth.XamarinForms.Resource.Integer.status_bar_notification_info_maxnum = global::CrowdRelief.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Auth.XamarinForms.Resource.Interpolator.mr_fast_out_slow_in = global::CrowdRelief.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Interpolator.mr_linear_out_slow_in = global::CrowdRelief.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_bar_title_item = global::CrowdRelief.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_bar_up_container = global::CrowdRelief.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_bar_view_list_nav_layout = global::CrowdRelief.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_menu_item_layout = global::CrowdRelief.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_menu_layout = global::CrowdRelief.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_mode_bar = global::CrowdRelief.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_action_mode_close_item_material = global::CrowdRelief.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_activity_chooser_view = global::CrowdRelief.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_activity_chooser_view_list_item = global::CrowdRelief.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_alert_dialog_button_bar_material = global::CrowdRelief.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_alert_dialog_material = global::CrowdRelief.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_alert_dialog_title_material = global::CrowdRelief.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_dialog_title_material = global::CrowdRelief.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_expanded_menu_layout = global::CrowdRelief.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_list_menu_item_checkbox = global::CrowdRelief.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_list_menu_item_icon = global::CrowdRelief.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_list_menu_item_layout = global::CrowdRelief.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_list_menu_item_radio = global::CrowdRelief.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_popup_menu_header_item_layout = global::CrowdRelief.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_popup_menu_item_layout = global::CrowdRelief.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_screen_content_include = global::CrowdRelief.Droid.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_screen_simple = global::CrowdRelief.Droid.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CrowdRelief.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_screen_toolbar = global::CrowdRelief.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CrowdRelief.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_search_view = global::CrowdRelief.Droid.Resource.Layout.abc_search_view;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.abc_select_dialog_material = global::CrowdRelief.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.activity_webview = global::CrowdRelief.Droid.Resource.Layout.activity_webview;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_bottom_navigation_item = global::CrowdRelief.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_bottom_sheet_dialog = global::CrowdRelief.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_layout_snackbar = global::CrowdRelief.Droid.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_layout_snackbar_include = global::CrowdRelief.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_layout_tab_icon = global::CrowdRelief.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_layout_tab_text = global::CrowdRelief.Droid.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_menu_item_action_area = global::CrowdRelief.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_item = global::CrowdRelief.Droid.Resource.Layout.design_navigation_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_item_header = global::CrowdRelief.Droid.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_item_separator = global::CrowdRelief.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_item_subheader = global::CrowdRelief.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_menu = global::CrowdRelief.Droid.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_navigation_menu_item = global::CrowdRelief.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.design_text_input_password_icon = global::CrowdRelief.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_chooser_dialog = global::CrowdRelief.Droid.Resource.Layout.mr_chooser_dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_chooser_list_item = global::CrowdRelief.Droid.Resource.Layout.mr_chooser_list_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_controller_material_dialog_b = global::CrowdRelief.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_controller_volume_item = global::CrowdRelief.Droid.Resource.Layout.mr_controller_volume_item;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_playback_control = global::CrowdRelief.Droid.Resource.Layout.mr_playback_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.mr_volume_control = global::CrowdRelief.Droid.Resource.Layout.mr_volume_control;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_action = global::CrowdRelief.Droid.Resource.Layout.notification_action;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_action_tombstone = global::CrowdRelief.Droid.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_media_action = global::CrowdRelief.Droid.Resource.Layout.notification_media_action;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_media_cancel_action = global::CrowdRelief.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_big_media = global::CrowdRelief.Droid.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_big_media_custom = global::CrowdRelief.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_big_media_narrow = global::CrowdRelief.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_big_media_narrow_custom = global::CrowdRelief.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_custom_big = global::CrowdRelief.Droid.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_icon_group = global::CrowdRelief.Droid.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_lines_media = global::CrowdRelief.Droid.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_media = global::CrowdRelief.Droid.Resource.Layout.notification_template_media;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_media_custom = global::CrowdRelief.Droid.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_part_chronometer = global::CrowdRelief.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.notification_template_part_time = global::CrowdRelief.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.select_dialog_item_material = global::CrowdRelief.Droid.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.select_dialog_multichoice_material = global::CrowdRelief.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.select_dialog_singlechoice_material = global::CrowdRelief.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Auth.XamarinForms.Resource.Layout.support_simple_spinner_dropdown_item = global::CrowdRelief.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Auth.XamarinForms.Resource.String.ApplicationName = global::CrowdRelief.Droid.Resource.String.ApplicationName;
+			global::Xamarin.Auth.XamarinForms.Resource.String.Hello = global::CrowdRelief.Droid.Resource.String.Hello;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_bar_home_description = global::CrowdRelief.Droid.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_bar_home_description_format = global::CrowdRelief.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_bar_home_subtitle_description_format = global::CrowdRelief.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_bar_up_description = global::CrowdRelief.Droid.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_menu_overflow_description = global::CrowdRelief.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_action_mode_done = global::CrowdRelief.Droid.Resource.String.abc_action_mode_done;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_activity_chooser_view_see_all = global::CrowdRelief.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_activitychooserview_choose_application = global::CrowdRelief.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_capital_off = global::CrowdRelief.Droid.Resource.String.abc_capital_off;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_capital_on = global::CrowdRelief.Droid.Resource.String.abc_capital_on;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_body_1_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_body_2_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_button_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_caption_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_display_1_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_display_2_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_display_3_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_display_4_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_headline_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_menu_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_subhead_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_font_family_title_material = global::CrowdRelief.Droid.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_search_hint = global::CrowdRelief.Droid.Resource.String.abc_search_hint;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_searchview_description_clear = global::CrowdRelief.Droid.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_searchview_description_query = global::CrowdRelief.Droid.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_searchview_description_search = global::CrowdRelief.Droid.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_searchview_description_submit = global::CrowdRelief.Droid.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_searchview_description_voice = global::CrowdRelief.Droid.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_shareactionprovider_share_with = global::CrowdRelief.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_shareactionprovider_share_with_application = global::CrowdRelief.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Auth.XamarinForms.Resource.String.abc_toolbar_collapse_description = global::CrowdRelief.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.appbar_scrolling_view_behavior = global::CrowdRelief.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Auth.XamarinForms.Resource.String.bottom_sheet_behavior = global::CrowdRelief.Droid.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Auth.XamarinForms.Resource.String.character_counter_pattern = global::CrowdRelief.Droid.Resource.String.character_counter_pattern;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_button_content_description = global::CrowdRelief.Droid.Resource.String.mr_button_content_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_cast_button_connected = global::CrowdRelief.Droid.Resource.String.mr_cast_button_connected;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_cast_button_connecting = global::CrowdRelief.Droid.Resource.String.mr_cast_button_connecting;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_cast_button_disconnected = global::CrowdRelief.Droid.Resource.String.mr_cast_button_disconnected;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_chooser_searching = global::CrowdRelief.Droid.Resource.String.mr_chooser_searching;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_chooser_title = global::CrowdRelief.Droid.Resource.String.mr_chooser_title;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_album_art = global::CrowdRelief.Droid.Resource.String.mr_controller_album_art;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_casting_screen = global::CrowdRelief.Droid.Resource.String.mr_controller_casting_screen;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_close_description = global::CrowdRelief.Droid.Resource.String.mr_controller_close_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_collapse_group = global::CrowdRelief.Droid.Resource.String.mr_controller_collapse_group;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_disconnect = global::CrowdRelief.Droid.Resource.String.mr_controller_disconnect;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_expand_group = global::CrowdRelief.Droid.Resource.String.mr_controller_expand_group;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_no_info_available = global::CrowdRelief.Droid.Resource.String.mr_controller_no_info_available;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_no_media_selected = global::CrowdRelief.Droid.Resource.String.mr_controller_no_media_selected;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_pause = global::CrowdRelief.Droid.Resource.String.mr_controller_pause;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_play = global::CrowdRelief.Droid.Resource.String.mr_controller_play;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_stop = global::CrowdRelief.Droid.Resource.String.mr_controller_stop;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_stop_casting = global::CrowdRelief.Droid.Resource.String.mr_controller_stop_casting;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_controller_volume_slider = global::CrowdRelief.Droid.Resource.String.mr_controller_volume_slider;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_system_route_name = global::CrowdRelief.Droid.Resource.String.mr_system_route_name;
+			global::Xamarin.Auth.XamarinForms.Resource.String.mr_user_route_category_name = global::CrowdRelief.Droid.Resource.String.mr_user_route_category_name;
+			global::Xamarin.Auth.XamarinForms.Resource.String.password_toggle_content_description = global::CrowdRelief.Droid.Resource.String.password_toggle_content_description;
+			global::Xamarin.Auth.XamarinForms.Resource.String.path_password_eye = global::CrowdRelief.Droid.Resource.String.path_password_eye;
+			global::Xamarin.Auth.XamarinForms.Resource.String.path_password_eye_mask_strike_through = global::CrowdRelief.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Auth.XamarinForms.Resource.String.path_password_eye_mask_visible = global::CrowdRelief.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Auth.XamarinForms.Resource.String.path_password_strike_through = global::CrowdRelief.Droid.Resource.String.path_password_strike_through;
+			global::Xamarin.Auth.XamarinForms.Resource.String.search_menu_title = global::CrowdRelief.Droid.Resource.String.search_menu_title;
+			global::Xamarin.Auth.XamarinForms.Resource.String.status_bar_notification_info_overflow = global::CrowdRelief.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.String.title_activity_webview = global::CrowdRelief.Droid.Resource.String.title_activity_webview;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.AlertDialog_AppCompat = global::CrowdRelief.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.AlertDialog_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Animation_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Animation_AppCompat_DropDownUp = global::CrowdRelief.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Animation_Design_BottomSheetDialog = global::CrowdRelief.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_AlertDialog_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Animation_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CrowdRelief.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_CardView = global::CrowdRelief.Droid.Resource.Style.Base_CardView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CrowdRelief.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CrowdRelief.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::CrowdRelief.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::CrowdRelief.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V21_Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V22_Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V23_Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CrowdRelief.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CrowdRelief.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_EditText = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ListView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_SearchView = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Spinner = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CrowdRelief.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_Design_AppBarLayout = global::CrowdRelief.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Base_Widget_Design_TabLayout = global::CrowdRelief.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.CardView = global::CrowdRelief.Droid.Resource.Style.CardView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.CardView_Dark = global::CrowdRelief.Droid.Resource.Style.CardView_Dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.CardView_Light = global::CrowdRelief.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CrowdRelief.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V11_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V11_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V14_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V14_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V21_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V21_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V25_AppCompat = global::CrowdRelief.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_V25_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CrowdRelief.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CrowdRelief.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CrowdRelief.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CrowdRelief.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Body1 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Body2 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Button = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Caption = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Display1 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Display2 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Display3 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Display4 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Headline = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Large = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Medium = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Menu = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Small = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Subhead = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CrowdRelief.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Counter = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Counter_Overflow = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Error = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Hint = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Snackbar_Message = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Design_Tab = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::CrowdRelief.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::CrowdRelief.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_MediaRouter_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_StatusBar_EventContent = global::CrowdRelief.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::CrowdRelief.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::CrowdRelief.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::CrowdRelief.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CrowdRelief.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_CompactMenu = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_Dialog = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_AppCompat_NoActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design = global::CrowdRelief.Droid.Resource.Style.Theme_Design;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design_BottomSheetDialog = global::CrowdRelief.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design_Light = global::CrowdRelief.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CrowdRelief.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design_Light_NoActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_Design_NoActionBar = global::CrowdRelief.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_MediaRouter = global::CrowdRelief.Droid.Resource.Style.Theme_MediaRouter;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_MediaRouter_Light = global::CrowdRelief.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::CrowdRelief.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Theme_MediaRouter_LightControlPanel = global::CrowdRelief.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_AppCompat_Light = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.ThemeOverlay_MediaRouter_Light = global::CrowdRelief.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionButton = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActionMode = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button_Borderless = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button_Colored = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Button_Small = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ButtonBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_EditText = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ImageButton = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_SearchView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ListMenuView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ListView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ListView_Menu = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_NotificationActionContainer = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_NotificationActionContainer;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_NotificationActionText = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_NotificationActionText;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_PopupMenu = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_PopupWindow = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ProgressBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_RatingBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_SearchView = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_SeekBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Spinner = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Toolbar = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CrowdRelief.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_AppBarLayout = global::CrowdRelief.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_BottomNavigationView = global::CrowdRelief.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_BottomSheet_Modal = global::CrowdRelief.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_CollapsingToolbar = global::CrowdRelief.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_CoordinatorLayout = global::CrowdRelief.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_FloatingActionButton = global::CrowdRelief.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_NavigationView = global::CrowdRelief.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::CrowdRelief.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_Snackbar = global::CrowdRelief.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_TabLayout = global::CrowdRelief.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_Design_TextInputLayout = global::CrowdRelief.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::CrowdRelief.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::CrowdRelief.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar = global::CrowdRelief.Droid.Resource.Styleable.ActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_background = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_backgroundSplit = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_backgroundStacked = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetEnd = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetLeft = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetRight = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetStart = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_customNavigationLayout = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_displayOptions = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_divider = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_elevation = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_height = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_hideOnContentScroll = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_homeLayout = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_icon = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_itemPadding = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_logo = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_navigationMode = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_popupTheme = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_progressBarPadding = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_progressBarStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_subtitle = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_subtitleTextStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_title = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBar_titleTextStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBarLayout = global::CrowdRelief.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CrowdRelief.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMenuItemView = global::CrowdRelief.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CrowdRelief.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMenuView = global::CrowdRelief.Droid.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode = global::CrowdRelief.Droid.Resource.Styleable.ActionMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_background = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_backgroundSplit = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_closeItemLayout = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_height = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_subtitleTextStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActionMode_titleTextStyle = global::CrowdRelief.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActivityChooserView = global::CrowdRelief.Droid.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CrowdRelief.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CrowdRelief.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_android_layout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_listItemLayout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_listLayout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_showTitle = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CrowdRelief.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_android_background = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_elevation = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_expanded = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayoutStates = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_Layout = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CrowdRelief.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatImageView = global::CrowdRelief.Droid.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatImageView_android_src = global::CrowdRelief.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatImageView_srcCompat = global::CrowdRelief.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatSeekBar = global::CrowdRelief.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatSeekBar_android_thumb = global::CrowdRelief.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatSeekBar_tickMark = global::CrowdRelief.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::CrowdRelief.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::CrowdRelief.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextView = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTextView_textAllCaps = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarSize = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorAccent = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorPrimary = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_controlBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dialogTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dividerVertical = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_editTextBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_editTextColor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_editTextStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_panelBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_switchStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowActionBar = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CrowdRelief.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView_elevation = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView_itemBackground = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView_itemIconTint = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView_itemTextColor = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomNavigationView_menu = global::CrowdRelief.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomSheetBehavior_Layout = global::CrowdRelief.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::CrowdRelief.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::CrowdRelief.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::CrowdRelief.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ButtonBarLayout = global::CrowdRelief.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ButtonBarLayout_allowStacking = global::CrowdRelief.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView = global::CrowdRelief.Droid.Resource.Styleable.CardView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_android_minHeight = global::CrowdRelief.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_android_minWidth = global::CrowdRelief.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardBackgroundColor = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardCornerRadius = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardElevation = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardMaxElevation = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardPreventCornerOverlap = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_cardUseCompatPadding = global::CrowdRelief.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_contentPadding = global::CrowdRelief.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_contentPaddingBottom = global::CrowdRelief.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_contentPaddingLeft = global::CrowdRelief.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_contentPaddingRight = global::CrowdRelief.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CardView_contentPaddingTop = global::CrowdRelief.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_title = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CrowdRelief.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ColorStateListItem = global::CrowdRelief.Droid.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ColorStateListItem_alpha = global::CrowdRelief.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ColorStateListItem_android_alpha = global::CrowdRelief.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ColorStateListItem_android_color = global::CrowdRelief.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CompoundButton = global::CrowdRelief.Droid.Resource.Styleable.CompoundButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CompoundButton_android_button = global::CrowdRelief.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CompoundButton_buttonTint = global::CrowdRelief.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CompoundButton_buttonTintMode = global::CrowdRelief.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_keylines = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CrowdRelief.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DesignTheme = global::CrowdRelief.Droid.Resource.Styleable.DesignTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CrowdRelief.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CrowdRelief.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DesignTheme_textColorError = global::CrowdRelief.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_barLength = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_color = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_spinBars = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.DrawerArrowToggle_thickness = global::CrowdRelief.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_backgroundTint = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_borderWidth = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_elevation = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_fabSize = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_rippleColor = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CrowdRelief.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ForegroundLinearLayout = global::CrowdRelief.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CrowdRelief.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CrowdRelief.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CrowdRelief.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_divider = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_showDividers = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_Layout = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CrowdRelief.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ListPopupWindow = global::CrowdRelief.Droid.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CrowdRelief.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CrowdRelief.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MediaRouteButton = global::CrowdRelief.Droid.Resource.Styleable.MediaRouteButton;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MediaRouteButton_android_minHeight = global::CrowdRelief.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MediaRouteButton_android_minWidth = global::CrowdRelief.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MediaRouteButton_buttonTint = global::CrowdRelief.Droid.Resource.Styleable.MediaRouteButton_buttonTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::CrowdRelief.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_enabled = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_id = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_menuCategory = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_orderInCategory = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuGroup_android_visible = global::CrowdRelief.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem = global::CrowdRelief.Droid.Resource.Styleable.MenuItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_actionLayout = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_actionProviderClass = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_actionViewClass = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_checkable = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_checked = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_enabled = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_icon = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_id = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_menuCategory = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_numericShortcut = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_onClick = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_orderInCategory = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_title = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_titleCondensed = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_android_visible = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuItem_showAsAction = global::CrowdRelief.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView = global::CrowdRelief.Droid.Resource.Styleable.MenuView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_headerBackground = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_horizontalDivider = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_itemBackground = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_itemTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_verticalDivider = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CrowdRelief.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_preserveIconSpacing = global::CrowdRelief.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.MenuView_subMenuArrow = global::CrowdRelief.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView = global::CrowdRelief.Droid.Resource.Styleable.NavigationView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_android_background = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_android_maxWidth = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_elevation = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_headerLayout = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_itemBackground = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_itemIconTint = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_itemTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_itemTextColor = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.NavigationView_menu = global::CrowdRelief.Droid.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindow = global::CrowdRelief.Droid.Resource.Styleable.PopupWindow;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CrowdRelief.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindow_android_popupBackground = global::CrowdRelief.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindow_overlapAnchor = global::CrowdRelief.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindowBackgroundState = global::CrowdRelief.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CrowdRelief.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecycleListView = global::CrowdRelief.Droid.Resource.Styleable.RecycleListView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CrowdRelief.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CrowdRelief.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_android_descendantFocusability = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_android_orientation = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_layoutManager = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_reverseLayout = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_spanCount = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.RecyclerView_stackFromEnd = global::CrowdRelief.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ScrimInsetsFrameLayout = global::CrowdRelief.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::CrowdRelief.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ScrollingViewBehavior_Layout = global::CrowdRelief.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::CrowdRelief.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView = global::CrowdRelief.Droid.Resource.Styleable.SearchView;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_android_focusable = global::CrowdRelief.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_android_imeOptions = global::CrowdRelief.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_android_inputType = global::CrowdRelief.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_android_maxWidth = global::CrowdRelief.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_closeIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_commitIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_defaultQueryHint = global::CrowdRelief.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_goIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_iconifiedByDefault = global::CrowdRelief.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_layout = global::CrowdRelief.Droid.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_queryBackground = global::CrowdRelief.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_queryHint = global::CrowdRelief.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_searchHintIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_searchIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_submitBackground = global::CrowdRelief.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_suggestionRowLayout = global::CrowdRelief.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SearchView_voiceIcon = global::CrowdRelief.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SnackbarLayout = global::CrowdRelief.Droid.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CrowdRelief.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SnackbarLayout_elevation = global::CrowdRelief.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CrowdRelief.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner = global::CrowdRelief.Droid.Resource.Styleable.Spinner;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner_android_dropDownWidth = global::CrowdRelief.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner_android_entries = global::CrowdRelief.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner_android_popupBackground = global::CrowdRelief.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner_android_prompt = global::CrowdRelief.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Spinner_popupTheme = global::CrowdRelief.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_android_textOff = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_android_textOn = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_android_thumb = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_showText = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_splitTrack = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_switchMinWidth = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_switchPadding = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_thumbTint = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_thumbTintMode = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_track = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_trackTint = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.SwitchCompat_trackTintMode = global::CrowdRelief.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabItem = global::CrowdRelief.Droid.Resource.Styleable.TabItem;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabItem_android_icon = global::CrowdRelief.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabItem_android_layout = global::CrowdRelief.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabItem_android_text = global::CrowdRelief.Droid.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout = global::CrowdRelief.Droid.Resource.Styleable.TabLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabBackground = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabContentStart = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabGravity = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabIndicatorColor = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabIndicatorHeight = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabMaxWidth = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabMinWidth = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabMode = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabPadding = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabPaddingBottom = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabPaddingEnd = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabPaddingStart = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabPaddingTop = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabSelectedTextColor = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TabLayout_tabTextColor = global::CrowdRelief.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_shadowColor = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_shadowDx = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_shadowDy = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_shadowRadius = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_textColor = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_textColorHint = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_textSize = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_textStyle = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_android_typeface = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextAppearance_textAllCaps = global::CrowdRelief.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_android_hint = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_android_textColorHint = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_counterEnabled = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_counterMaxLength = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_counterTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_errorEnabled = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_errorTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_hintEnabled = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_hintTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_passwordToggleTint = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::CrowdRelief.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar = global::CrowdRelief.Droid.Resource.Styleable.Toolbar;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_android_gravity = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_android_minHeight = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_buttonGravity = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_collapseContentDescription = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_collapseIcon = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetEnd = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetLeft = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetRight = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetStart = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_logo = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_logoDescription = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_maxButtonHeight = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_navigationContentDescription = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_navigationIcon = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_popupTheme = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_subtitle = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_subtitleTextColor = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_title = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMargin = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMarginBottom = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMarginEnd = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMarginStart = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMarginTop = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleMargins = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleTextAppearance = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.Toolbar_titleTextColor = global::CrowdRelief.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View = global::CrowdRelief.Droid.Resource.Styleable.View;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View_android_focusable = global::CrowdRelief.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View_android_theme = global::CrowdRelief.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View_paddingEnd = global::CrowdRelief.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View_paddingStart = global::CrowdRelief.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.View_theme = global::CrowdRelief.Droid.Resource.Styleable.View_theme;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewBackgroundHelper = global::CrowdRelief.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewBackgroundHelper_android_background = global::CrowdRelief.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CrowdRelief.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CrowdRelief.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewStubCompat = global::CrowdRelief.Droid.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewStubCompat_android_id = global::CrowdRelief.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CrowdRelief.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Auth.XamarinForms.Resource.Styleable.ViewStubCompat_android_layout = global::CrowdRelief.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::CrowdRelief.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -3644,200 +5757,200 @@ namespace CrowdRelief.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f0a0040
-			public const int ApplicationName = 2131361856;
-			
-			// aapt resource value: 0x7f0a003f
-			public const int Hello = 2131361855;
-			
-			// aapt resource value: 0x7f0a0016
-			public const int abc_action_bar_home_description = 2131361814;
-			
-			// aapt resource value: 0x7f0a0017
-			public const int abc_action_bar_home_description_format = 2131361815;
-			
-			// aapt resource value: 0x7f0a0018
-			public const int abc_action_bar_home_subtitle_description_format = 2131361816;
-			
-			// aapt resource value: 0x7f0a0019
-			public const int abc_action_bar_up_description = 2131361817;
-			
-			// aapt resource value: 0x7f0a001a
-			public const int abc_action_menu_overflow_description = 2131361818;
-			
-			// aapt resource value: 0x7f0a001b
-			public const int abc_action_mode_done = 2131361819;
-			
-			// aapt resource value: 0x7f0a001c
-			public const int abc_activity_chooser_view_see_all = 2131361820;
-			
-			// aapt resource value: 0x7f0a001d
-			public const int abc_activitychooserview_choose_application = 2131361821;
-			
-			// aapt resource value: 0x7f0a001e
-			public const int abc_capital_off = 2131361822;
-			
-			// aapt resource value: 0x7f0a001f
-			public const int abc_capital_on = 2131361823;
-			
-			// aapt resource value: 0x7f0a002b
-			public const int abc_font_family_body_1_material = 2131361835;
-			
-			// aapt resource value: 0x7f0a002c
-			public const int abc_font_family_body_2_material = 2131361836;
-			
-			// aapt resource value: 0x7f0a002d
-			public const int abc_font_family_button_material = 2131361837;
-			
-			// aapt resource value: 0x7f0a002e
-			public const int abc_font_family_caption_material = 2131361838;
-			
-			// aapt resource value: 0x7f0a002f
-			public const int abc_font_family_display_1_material = 2131361839;
-			
-			// aapt resource value: 0x7f0a0030
-			public const int abc_font_family_display_2_material = 2131361840;
-			
-			// aapt resource value: 0x7f0a0031
-			public const int abc_font_family_display_3_material = 2131361841;
-			
-			// aapt resource value: 0x7f0a0032
-			public const int abc_font_family_display_4_material = 2131361842;
-			
-			// aapt resource value: 0x7f0a0033
-			public const int abc_font_family_headline_material = 2131361843;
-			
-			// aapt resource value: 0x7f0a0034
-			public const int abc_font_family_menu_material = 2131361844;
-			
-			// aapt resource value: 0x7f0a0035
-			public const int abc_font_family_subhead_material = 2131361845;
-			
-			// aapt resource value: 0x7f0a0036
-			public const int abc_font_family_title_material = 2131361846;
-			
-			// aapt resource value: 0x7f0a0020
-			public const int abc_search_hint = 2131361824;
-			
-			// aapt resource value: 0x7f0a0021
-			public const int abc_searchview_description_clear = 2131361825;
-			
-			// aapt resource value: 0x7f0a0022
-			public const int abc_searchview_description_query = 2131361826;
-			
-			// aapt resource value: 0x7f0a0023
-			public const int abc_searchview_description_search = 2131361827;
-			
-			// aapt resource value: 0x7f0a0024
-			public const int abc_searchview_description_submit = 2131361828;
-			
-			// aapt resource value: 0x7f0a0025
-			public const int abc_searchview_description_voice = 2131361829;
-			
-			// aapt resource value: 0x7f0a0026
-			public const int abc_shareactionprovider_share_with = 2131361830;
-			
-			// aapt resource value: 0x7f0a0027
-			public const int abc_shareactionprovider_share_with_application = 2131361831;
-			
-			// aapt resource value: 0x7f0a0028
-			public const int abc_toolbar_collapse_description = 2131361832;
-			
-			// aapt resource value: 0x7f0a0037
-			public const int appbar_scrolling_view_behavior = 2131361847;
-			
-			// aapt resource value: 0x7f0a0038
-			public const int bottom_sheet_behavior = 2131361848;
-			
-			// aapt resource value: 0x7f0a0039
-			public const int character_counter_pattern = 2131361849;
-			
 			// aapt resource value: 0x7f0a0001
-			public const int mr_button_content_description = 2131361793;
-			
-			// aapt resource value: 0x7f0a0002
-			public const int mr_cast_button_connected = 2131361794;
-			
-			// aapt resource value: 0x7f0a0003
-			public const int mr_cast_button_connecting = 2131361795;
-			
-			// aapt resource value: 0x7f0a0004
-			public const int mr_cast_button_disconnected = 2131361796;
-			
-			// aapt resource value: 0x7f0a0005
-			public const int mr_chooser_searching = 2131361797;
-			
-			// aapt resource value: 0x7f0a0006
-			public const int mr_chooser_title = 2131361798;
-			
-			// aapt resource value: 0x7f0a0007
-			public const int mr_controller_album_art = 2131361799;
-			
-			// aapt resource value: 0x7f0a0008
-			public const int mr_controller_casting_screen = 2131361800;
-			
-			// aapt resource value: 0x7f0a0009
-			public const int mr_controller_close_description = 2131361801;
-			
-			// aapt resource value: 0x7f0a000a
-			public const int mr_controller_collapse_group = 2131361802;
-			
-			// aapt resource value: 0x7f0a000b
-			public const int mr_controller_disconnect = 2131361803;
-			
-			// aapt resource value: 0x7f0a000c
-			public const int mr_controller_expand_group = 2131361804;
-			
-			// aapt resource value: 0x7f0a000d
-			public const int mr_controller_no_info_available = 2131361805;
-			
-			// aapt resource value: 0x7f0a000e
-			public const int mr_controller_no_media_selected = 2131361806;
-			
-			// aapt resource value: 0x7f0a000f
-			public const int mr_controller_pause = 2131361807;
-			
-			// aapt resource value: 0x7f0a0010
-			public const int mr_controller_play = 2131361808;
-			
-			// aapt resource value: 0x7f0a0015
-			public const int mr_controller_stop = 2131361813;
-			
-			// aapt resource value: 0x7f0a0011
-			public const int mr_controller_stop_casting = 2131361809;
-			
-			// aapt resource value: 0x7f0a0012
-			public const int mr_controller_volume_slider = 2131361810;
-			
-			// aapt resource value: 0x7f0a0013
-			public const int mr_system_route_name = 2131361811;
-			
-			// aapt resource value: 0x7f0a0014
-			public const int mr_user_route_category_name = 2131361812;
-			
-			// aapt resource value: 0x7f0a003a
-			public const int password_toggle_content_description = 2131361850;
-			
-			// aapt resource value: 0x7f0a003b
-			public const int path_password_eye = 2131361851;
-			
-			// aapt resource value: 0x7f0a003c
-			public const int path_password_eye_mask_strike_through = 2131361852;
-			
-			// aapt resource value: 0x7f0a003d
-			public const int path_password_eye_mask_visible = 2131361853;
-			
-			// aapt resource value: 0x7f0a003e
-			public const int path_password_strike_through = 2131361854;
-			
-			// aapt resource value: 0x7f0a0029
-			public const int search_menu_title = 2131361833;
-			
-			// aapt resource value: 0x7f0a002a
-			public const int status_bar_notification_info_overflow = 2131361834;
+			public const int ApplicationName = 2131361793;
 			
 			// aapt resource value: 0x7f0a0000
-			public const int title_activity_webview = 2131361792;
+			public const int Hello = 2131361792;
+			
+			// aapt resource value: 0x7f0a0018
+			public const int abc_action_bar_home_description = 2131361816;
+			
+			// aapt resource value: 0x7f0a0019
+			public const int abc_action_bar_home_description_format = 2131361817;
+			
+			// aapt resource value: 0x7f0a001a
+			public const int abc_action_bar_home_subtitle_description_format = 2131361818;
+			
+			// aapt resource value: 0x7f0a001b
+			public const int abc_action_bar_up_description = 2131361819;
+			
+			// aapt resource value: 0x7f0a001c
+			public const int abc_action_menu_overflow_description = 2131361820;
+			
+			// aapt resource value: 0x7f0a001d
+			public const int abc_action_mode_done = 2131361821;
+			
+			// aapt resource value: 0x7f0a001e
+			public const int abc_activity_chooser_view_see_all = 2131361822;
+			
+			// aapt resource value: 0x7f0a001f
+			public const int abc_activitychooserview_choose_application = 2131361823;
+			
+			// aapt resource value: 0x7f0a0020
+			public const int abc_capital_off = 2131361824;
+			
+			// aapt resource value: 0x7f0a0021
+			public const int abc_capital_on = 2131361825;
+			
+			// aapt resource value: 0x7f0a002d
+			public const int abc_font_family_body_1_material = 2131361837;
+			
+			// aapt resource value: 0x7f0a002e
+			public const int abc_font_family_body_2_material = 2131361838;
+			
+			// aapt resource value: 0x7f0a002f
+			public const int abc_font_family_button_material = 2131361839;
+			
+			// aapt resource value: 0x7f0a0030
+			public const int abc_font_family_caption_material = 2131361840;
+			
+			// aapt resource value: 0x7f0a0031
+			public const int abc_font_family_display_1_material = 2131361841;
+			
+			// aapt resource value: 0x7f0a0032
+			public const int abc_font_family_display_2_material = 2131361842;
+			
+			// aapt resource value: 0x7f0a0033
+			public const int abc_font_family_display_3_material = 2131361843;
+			
+			// aapt resource value: 0x7f0a0034
+			public const int abc_font_family_display_4_material = 2131361844;
+			
+			// aapt resource value: 0x7f0a0035
+			public const int abc_font_family_headline_material = 2131361845;
+			
+			// aapt resource value: 0x7f0a0036
+			public const int abc_font_family_menu_material = 2131361846;
+			
+			// aapt resource value: 0x7f0a0037
+			public const int abc_font_family_subhead_material = 2131361847;
+			
+			// aapt resource value: 0x7f0a0038
+			public const int abc_font_family_title_material = 2131361848;
+			
+			// aapt resource value: 0x7f0a0022
+			public const int abc_search_hint = 2131361826;
+			
+			// aapt resource value: 0x7f0a0023
+			public const int abc_searchview_description_clear = 2131361827;
+			
+			// aapt resource value: 0x7f0a0024
+			public const int abc_searchview_description_query = 2131361828;
+			
+			// aapt resource value: 0x7f0a0025
+			public const int abc_searchview_description_search = 2131361829;
+			
+			// aapt resource value: 0x7f0a0026
+			public const int abc_searchview_description_submit = 2131361830;
+			
+			// aapt resource value: 0x7f0a0027
+			public const int abc_searchview_description_voice = 2131361831;
+			
+			// aapt resource value: 0x7f0a0028
+			public const int abc_shareactionprovider_share_with = 2131361832;
+			
+			// aapt resource value: 0x7f0a0029
+			public const int abc_shareactionprovider_share_with_application = 2131361833;
+			
+			// aapt resource value: 0x7f0a002a
+			public const int abc_toolbar_collapse_description = 2131361834;
+			
+			// aapt resource value: 0x7f0a0039
+			public const int appbar_scrolling_view_behavior = 2131361849;
+			
+			// aapt resource value: 0x7f0a003a
+			public const int bottom_sheet_behavior = 2131361850;
+			
+			// aapt resource value: 0x7f0a003b
+			public const int character_counter_pattern = 2131361851;
+			
+			// aapt resource value: 0x7f0a0003
+			public const int mr_button_content_description = 2131361795;
+			
+			// aapt resource value: 0x7f0a0004
+			public const int mr_cast_button_connected = 2131361796;
+			
+			// aapt resource value: 0x7f0a0005
+			public const int mr_cast_button_connecting = 2131361797;
+			
+			// aapt resource value: 0x7f0a0006
+			public const int mr_cast_button_disconnected = 2131361798;
+			
+			// aapt resource value: 0x7f0a0007
+			public const int mr_chooser_searching = 2131361799;
+			
+			// aapt resource value: 0x7f0a0008
+			public const int mr_chooser_title = 2131361800;
+			
+			// aapt resource value: 0x7f0a0009
+			public const int mr_controller_album_art = 2131361801;
+			
+			// aapt resource value: 0x7f0a000a
+			public const int mr_controller_casting_screen = 2131361802;
+			
+			// aapt resource value: 0x7f0a000b
+			public const int mr_controller_close_description = 2131361803;
+			
+			// aapt resource value: 0x7f0a000c
+			public const int mr_controller_collapse_group = 2131361804;
+			
+			// aapt resource value: 0x7f0a000d
+			public const int mr_controller_disconnect = 2131361805;
+			
+			// aapt resource value: 0x7f0a000e
+			public const int mr_controller_expand_group = 2131361806;
+			
+			// aapt resource value: 0x7f0a000f
+			public const int mr_controller_no_info_available = 2131361807;
+			
+			// aapt resource value: 0x7f0a0010
+			public const int mr_controller_no_media_selected = 2131361808;
+			
+			// aapt resource value: 0x7f0a0011
+			public const int mr_controller_pause = 2131361809;
+			
+			// aapt resource value: 0x7f0a0012
+			public const int mr_controller_play = 2131361810;
+			
+			// aapt resource value: 0x7f0a0017
+			public const int mr_controller_stop = 2131361815;
+			
+			// aapt resource value: 0x7f0a0013
+			public const int mr_controller_stop_casting = 2131361811;
+			
+			// aapt resource value: 0x7f0a0014
+			public const int mr_controller_volume_slider = 2131361812;
+			
+			// aapt resource value: 0x7f0a0015
+			public const int mr_system_route_name = 2131361813;
+			
+			// aapt resource value: 0x7f0a0016
+			public const int mr_user_route_category_name = 2131361814;
+			
+			// aapt resource value: 0x7f0a003c
+			public const int password_toggle_content_description = 2131361852;
+			
+			// aapt resource value: 0x7f0a003d
+			public const int path_password_eye = 2131361853;
+			
+			// aapt resource value: 0x7f0a003e
+			public const int path_password_eye_mask_strike_through = 2131361854;
+			
+			// aapt resource value: 0x7f0a003f
+			public const int path_password_eye_mask_visible = 2131361855;
+			
+			// aapt resource value: 0x7f0a0040
+			public const int path_password_strike_through = 2131361856;
+			
+			// aapt resource value: 0x7f0a002b
+			public const int search_menu_title = 2131361835;
+			
+			// aapt resource value: 0x7f0a002c
+			public const int status_bar_notification_info_overflow = 2131361836;
+			
+			// aapt resource value: 0x7f0a0002
+			public const int title_activity_webview = 2131361794;
 			
 			static String()
 			{

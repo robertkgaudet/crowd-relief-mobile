@@ -55,7 +55,7 @@
 			<string>Google OAuth</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.1052811891786-iuui5rc9fmhksm61kedm2dlu9lhs50vg:/oauth2redirect</string>
+				<string>com.googleusercontent.apps.1052811891786-iuui5rc9fmhksm61kedm2dlu9lhs50vg</string>
 			</array>
 			<key>CFBundleURLTypes</key>
 			<string>Viewer</string>
