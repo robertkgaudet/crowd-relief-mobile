@@ -15,7 +15,9 @@ namespace CrowdRelief.Ioc
         {
             var kernel = new StandardKernel();
             instance = kernel;
+            //Remove below code and hope for the best
             instance.Load(new Shared.Ioc());
+            
         }
 
         public static void Register<I,T>() where T : class, I where I : class
