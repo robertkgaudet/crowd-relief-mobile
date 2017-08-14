@@ -16,7 +16,7 @@ namespace CrowdRelief
             //MainPage = new CrowdRelief.Pages.CrowdReliefTabbedPage();
             //MainPage = new FacebookLogin.Views.LoginPage();
             MainPage = new Pages.LoginPage(Container.Get<Interfaces.ILoginService>());
-
+            //MainPage = Container.Get<Pages.LoginPage>();
             //If the user is no t logged in, send to the SignIn page.
 
 
