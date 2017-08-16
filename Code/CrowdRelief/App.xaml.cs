@@ -1,7 +1,12 @@
-﻿using CrowdRelief.Ioc;
+﻿using System;
+using CrowdRelief.Interfaces;
+using CrowdRelief.Ioc;
+using CrowdRelief.ViewModels;
 using Xamarin.Auth;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using CrowdRelief.Services;
+using CrowdRelief.Pages;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace CrowdRelief
@@ -12,22 +17,19 @@ namespace CrowdRelief
         public App()
         {
             Container.Initialize();
-            //Make sure the user is logged in, then send to the tabbed page
-            //MainPage = new CrowdRelief.Pages.CrowdReliefTabbedPage();
-            //MainPage = new FacebookLogin.Views.LoginPage();
-            MainPage = new Pages.LoginPage(Container.Get<Interfaces.ILoginService>());
-            //MainPage = Container.Get<Pages.LoginPage>();
-            //If the user is no t logged in, send to the SignIn page.
+            Pages();
+            Container.Resolve<INavigationService>().NavigateToRoot<LoginPageViewModel>(false);         
+        }
 
-
-            //NavigationPage navigationPage = new NavigationPage(MainPage);
-            //navigationPage.BarBackgroundColor = Color.Red;
-            //navigationPage.BarTextColor = Color.Red;
-
-            //navigationPage = new CrowdRelief.Pages.CrowdReliefNavigationPage(new CrowdRelief.Pages.Stream());
-
-            //MainPage = navigationPage;// new NavigationPage(new CrowdRelief.Pages.Master());
-
+        private void Pages()
+        {
+            Container.Register<INavigationService>(new NavigationService
+            {
+                Registrations =
+                {
+                    { typeof(LoginPage), typeof(LoginPageViewModel) },
+                }
+            });
         }
 
         protected override void OnStart()

@@ -15,9 +15,8 @@ namespace CrowdRelief.Ioc
         {
             var kernel = new StandardKernel();
             instance = kernel;
-            //Remove below code and hope for the best
             instance.Load(new Shared.Ioc());
-            
+
         }
 
         public static void Register<I,T>() where T : class, I where I : class
@@ -25,9 +24,26 @@ namespace CrowdRelief.Ioc
             instance.Bind<I>().To<T>();          
         }
 
-        public static I Get<I>() where I : class
+        public static void Register<T>(T instanceName) where T : class
         {
-            return instance.Get<I>();
+            instance.Bind<T>().ToConstant(instanceName);
         }
+
+        public static void Register(Type type)
+        {
+            instance.Bind(type).ToSelf();
+        }
+
+
+        public static T Resolve<T>() where T : class
+        {
+            return (T)Resolve(typeof(T));
+        }
+
+        public static object Resolve(Type type)
+        {
+            return instance.Get(type);
+        }
+
     }
 }

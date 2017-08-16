@@ -7,10 +7,9 @@ namespace CrowdRelief.Pages
 {
     public partial class LoginPage : ContentPage
     {
-        public LoginPage(ILoginService apiService)
+        public LoginPage()
         {
             InitializeComponent();
-            BindingContext = new LoginPageViewModel(apiService);
         }
     }
 }

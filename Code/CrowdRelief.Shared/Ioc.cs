@@ -1,6 +1,8 @@
 ﻿using CrowdRelief.Interfaces;
 using CrowdRelief.Ioc;
+using CrowdRelief.Pages;
 using CrowdRelief.Services;
+using CrowdRelief.ViewModels;
 using Ninject.Modules;
 using System;
 using System.Collections.Generic;
@@ -12,9 +14,7 @@ namespace CrowdRelief.Shared
     {
         public override void Load()
         {
-
             Container.Register<ILoginService, LoginService>();
-
         }
     }
 }

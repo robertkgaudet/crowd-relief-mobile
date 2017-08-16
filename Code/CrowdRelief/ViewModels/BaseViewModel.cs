@@ -1,10 +1,12 @@
-﻿using System;
+﻿using CrowdRelief.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Threading.Tasks;
 
 namespace CrowdRelief.ViewModels
 {
-    public class BaseViewModel : INotifyPropertyChanged
+    public class BaseViewModel : INotifyPropertyChanged,IViewModel
     {
         public event PropertyChangedEventHandler PropertyChanged;
         string _propTitle = string.Empty;
@@ -36,6 +38,15 @@ namespace CrowdRelief.ViewModels
             if (PropertyChanged == null)
                 return;
             PropertyChanged(this, new PropertyChangedEventArgs(propName));
+        }
+
+        public BaseViewModel Initialize(object navigationData)
+        {
+            return this;
+        }
+        public virtual Task InitializeAsync(object navigationData)
+        {
+            return Task.FromResult(false);
         }
     }
 }

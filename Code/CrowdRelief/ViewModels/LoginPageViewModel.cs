@@ -13,9 +13,9 @@ namespace CrowdRelief.ViewModels
     {
         readonly ILoginService _apiService;
 
-        public LoginPageViewModel(ILoginService apiService)
+        public LoginPageViewModel(ILoginService loginService)
         {
-            _apiService = apiService;
+            _apiService = loginService;
         }
 
         Command<string> loginCommand;
