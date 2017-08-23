@@ -52,14 +52,17 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>Google OAuth</string>
+			<string>googleLogin</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.1052811891786-iuui5rc9fmhksm61kedm2dlu9lhs50vg</string>
-			</array>
+        <string>com.crowdrelief.ios:/oauth2redirect</string>
+        <string>com.googleusercontent.apps.1052811891786-l34a5va898dbobm4ht86md843dl79un2</string>
+      </array>
 			<key>CFBundleURLTypes</key>
 			<string>Viewer</string>
 		</dict>
+		
 	</array>
 </dict>
 </plist>

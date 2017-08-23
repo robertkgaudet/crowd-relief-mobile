@@ -20,18 +20,17 @@ namespace CrowdRelief.iOS {
 		//
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options) {
             global::Xamarin.Forms.Forms.Init();
-            global::Xamarin.Auth.Presenters.XamarinIOS.AuthenticationConfiguration.Init();
 			LoadApplication(new App());
+            SimpleAuth.NativeSafariAuthenticator.Activate();
 
 			return base.FinishedLaunching(app, options);
 		}
 
         public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
         {
-            var uri = new Uri(url.AbsoluteString);
-
-            App.AuthenticationState.OnPageLoading(uri);
-            return true;
+            if (SimpleAuth.Native.OpenUrl(app, url, options))
+                return true;
+            return base.OpenUrl(app, url, options);
         }
     }
 }

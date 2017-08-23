@@ -1,9 +1,8 @@
 ﻿using CrowdRelief.Interfaces;
+using SimpleAuth.Providers;
 using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using Xamarin.Auth;
-using Xamarin.Auth.Presenters;
 using Xamarin.Forms;
 
 namespace CrowdRelief.Services
@@ -20,15 +19,15 @@ namespace CrowdRelief.Services
             throw new NotImplementedException();
         }
 
-        public Task LoginAsync(string provider)
+        public async Task LoginAsync(string provider)
         {
-            OAuth2Authenticator authenticator = null;
-
             switch (provider)
             {
                 case Constants.Providers.Google:
-                    var clientId = Device.RuntimePlatform == Device.iOS ? Constants.ApiInfo.GoogleInfo.GoolgeiOSClientId : Constants.ApiInfo.GoogleInfo.GoogleDroidClientId;
-                    authenticator = CreateAuthenticator(clientId,Constants.ApiInfo.GoogleInfo.GoogleScopes,Constants.ApiInfo.GoogleInfo.GoogleAuthUrl,Constants.ApiInfo.GoogleInfo.GoogleTokenUrl,Constants.ApiInfo.GoogleInfo.GoogleRedirectUrl);
+                    var clientId = Device.RuntimePlatform == Device.iOS ? Constants.ApiInfo.GoogleInfo.GoogleiOSClientId : Constants.ApiInfo.GoogleInfo.GoogleWebClientId;
+                    var clientSecret = Device.RuntimePlatform == Device.iOS ? null : Constants.ApiInfo.GoogleInfo.GoogleClientSecret;
+                    await CreateAuthenticator(clientId, Constants.ApiInfo.GoogleInfo.GoogleScopes, clientSecret,
+                        Constants.ApiInfo.GoogleInfo.GoogleTokenUrl, Constants.ApiInfo.GoogleInfo.GoogleRedirectUrl);
                     break;
                 case Constants.Providers.Facebook:
                     break;
@@ -42,31 +41,23 @@ namespace CrowdRelief.Services
                     break;
             }
 
-            return Task.FromResult(0);
+            return;
         }
 
-        private OAuth2Authenticator CreateAuthenticator(string clientId, string scopes, string authUrl, string tokenUrl, string redirect)
+        private async Task CreateAuthenticator(string clientId, string[] scopes, string clientSecret, string tokenUrl, string redirect)
         {
-            var presenter = new OAuthLoginPresenter();
-            OAuth2Authenticator authenticator = new OAuth2Authenticator(clientId,null,
-                scopes, new Uri(authUrl),
-                new Uri(redirect), new Uri(tokenUrl), null, true);
-            authenticator.Completed += OnAuthCompleted;
-            authenticator.Error += OnAuthError;
-            App.AuthenticationState = authenticator;
-            presenter.Login(authenticator);
-            return authenticator;
-        }
+            var authenticator =
+                 new GoogleApi("google", clientId, clientSecret) { Scopes = scopes};
+            try
+            {
+                var account = await authenticator.Authenticate();               
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex.ToString());
+                throw;
+            }
 
-        private void OnAuthError(object sender, AuthenticatorErrorEventArgs e)
-        {
-            Debug.WriteLine($"Login failed {e.Message}");
-        }
-
-        private void OnAuthCompleted(object sender, AuthenticatorCompletedEventArgs e)
-        {
-            if (e.IsAuthenticated)
-                Debug.WriteLine(e.Account);
         }
 
         public Task LogOut()

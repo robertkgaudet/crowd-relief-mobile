@@ -2,7 +2,6 @@
 using CrowdRelief.Interfaces;
 using CrowdRelief.Ioc;
 using CrowdRelief.ViewModels;
-using Xamarin.Auth;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using CrowdRelief.Services;
@@ -13,7 +12,6 @@ namespace CrowdRelief
 {
     public partial class App : Application
     {
-        public static OAuth2Authenticator AuthenticationState { get; set; }
         public App()
         {
             Container.Initialize();
