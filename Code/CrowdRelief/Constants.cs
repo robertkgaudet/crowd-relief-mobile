@@ -22,10 +22,29 @@ namespace CrowdRelief
                 public const string GoogleTokenUrl = "https://accounts.google.com/o/oauth2/token";
                 public static readonly string[] GoogleScopes = { "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email"};
                 public const string GoogleCustomUriSchema = "com.googleusercontent.apps.1052811891786-urod3ma4p4hs6slefuukmt3t48hm56js";
-                //public const string GoogleCustomUriSchema = "com.crowdrelief.droid";
                 public const string GoogleDataPath = "/oauth2redirect";
             }
-           
+           public struct MicrosoftInfo
+            {
+                public const string MicrosoftSecret = "ifjbXcWnPSWtqpgtwERMHjy";
+                public const string MicrosoftNativeRedirect = "msaldbcef1e2-07d6-43e0-95cb-5fcbef886d55://auth";
+                public const string MicrosoftAppId = "dbcef1e2-07d6-43e0-95cb-5fcbef886d55";
+                public static readonly string[] MicrosoftScopes = { "https://graph.microsoft.com/user.read" };
+            }
+            public struct TwitterInfo
+            {
+                public const string TwitterSecret = "GfjNdtQ4lAFyjsnBQLQJnysnDeRqNlOliGP5rnyUEg9SOd20B9";
+                public const string TwitterNativeRedirect = "msaldbcef1e2-07d6-43e0-95cb-5fcbef886d55://auth";
+                public const string TwitterAppId = "3JYO3M9COTbnizsFYWaq67dJZ";
+                //public static readonly string[] TwitterScopes = { "https://graph.Twitter.com/user.read" };
+            }
+            public struct FacebookInfo
+            {
+                public const string FacebookSecret = "5f1cf98e4012f64347ebf21824efc65a";
+                public const string FacebookNativeRedirect = "msaldbcef1e2-07d6-43e0-95cb-5fcbef886d55://auth";
+                public const string FacebookAppId = "1473035519454936";
+                //public static readonly string[] FacebookScopes = { "https://graph.Facebook.com/user.read" };
+            }
 
         }
         public struct Providers

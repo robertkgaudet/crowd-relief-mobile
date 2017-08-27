@@ -56,13 +56,21 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.1052811891786-iuui5rc9fmhksm61kedm2dlu9lhs50vg</string>
-        <string>com.crowdrelief.ios:/oauth2redirect</string>
-        <string>com.googleusercontent.apps.1052811891786-l34a5va898dbobm4ht86md843dl79un2</string>
-      </array>
+				<string>com.crowdrelief.ios:/oauth2redirect</string>
+				<string>com.googleusercontent.apps.1052811891786-l34a5va898dbobm4ht86md843dl79un2</string>
+				<string>http://localhost/</string>
+			</array>
 			<key>CFBundleURLTypes</key>
 			<string>Viewer</string>
 		</dict>
-		
+    <dict>
+      <key>CFBundleURLName</key>
+      <string>com.microsoft.azure.zumo</string>
+      <key>CFBundleURLSchemes</key>
+      <array>
+        <string>CrowdRelief</string>
+      </array>
+    </dict>
 	</array>
 </dict>
 </plist>

@@ -119,6 +119,9 @@
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Facebook, Version=4.10.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Facebook.iOS.4.18.0.1\lib\Xamarin.iOS10\Facebook.dll</HintPath>
+    </Reference>
     <Reference Include="Firebase.Analytics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Firebase.iOS.Analytics.3.7.0\lib\Xamarin.iOS10\Firebase.Analytics.dll</HintPath>
     </Reference>
@@ -158,6 +161,9 @@
     </Reference>
     <Reference Include="SimpleAuth, Version=1.0.40.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Clancey.SimpleAuth.1.0.41\lib\Xamarin.iOS10\SimpleAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleAuth.Facebook.iOS, Version=1.0.6347.40697, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Clancey.SimpleAuth.Facebook.iOS.1.0.3\lib\Xamarin.iOS10\SimpleAuth.Facebook.iOS.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.IO.Compression" />

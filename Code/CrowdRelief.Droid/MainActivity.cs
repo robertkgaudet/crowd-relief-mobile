@@ -8,6 +8,7 @@ using Android.Widget;
 using Android.OS;
 using Android.Content;
 
+[assembly: MetaData("com.facebook.sdk.ApplicationId", Value = "@string/facebook_app_id")]
 namespace CrowdRelief.Droid {
 	[Activity(
 		Label = "CrowdRelief", 
@@ -19,6 +20,7 @@ namespace CrowdRelief.Droid {
         {
 			base.OnCreate(bundle);
             SimpleAuth.Providers.Google.Init(this.Application);
+            SimpleAuth.Providers.Facebook.Init(this.Application,false);
             global::Xamarin.Forms.Forms.Init(this, bundle);
 			LoadApplication(new App());
 
