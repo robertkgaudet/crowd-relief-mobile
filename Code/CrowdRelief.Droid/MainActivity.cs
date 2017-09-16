@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using Android.Content;
+using Plugin.SecureStorage;
 
 [assembly: MetaData("com.facebook.sdk.ApplicationId", Value = "@string/facebook_app_id")]
 namespace CrowdRelief.Droid {
@@ -21,6 +22,7 @@ namespace CrowdRelief.Droid {
 			base.OnCreate(bundle);
             SimpleAuth.Providers.Google.Init(this.Application);
             SimpleAuth.Providers.Facebook.Init(this.Application,false);
+            SecureStorageImplementation.StoragePassword = "P@ssWord1!";
             global::Xamarin.Forms.Forms.Init(this, bundle);
 			LoadApplication(new App());
 

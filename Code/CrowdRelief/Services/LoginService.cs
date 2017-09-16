@@ -1,4 +1,5 @@
 ﻿using CrowdRelief.Interfaces;
+using CrowdRelief.ViewModels;
 using SimpleAuth.Providers;
 using System;
 using System.Diagnostics;
@@ -9,6 +10,11 @@ namespace CrowdRelief.Services
 {
     public class LoginService : ILoginService
     {
+        private INavigationService _navigation;
+        public LoginService(INavigationService navigation)
+        {
+            _navigation = navigation;
+        }
         public Task CheckToken()
         {
             throw new NotImplementedException();
@@ -38,19 +44,23 @@ namespace CrowdRelief.Services
                     var microsoftAuthenticator = new MicrosoftLiveConnectApi("microsoft", Constants.ApiInfo.MicrosoftInfo.MicrosoftAppId, Constants.ApiInfo.MicrosoftInfo.MicrosoftSecret)
                     { Scopes = Constants.ApiInfo.MicrosoftInfo.MicrosoftScopes };
                    account = await microsoftAuthenticator.Authenticate();
-                    ;
                     break;
                 case Constants.Providers.Twitter:
                     var twitterAuthenticator = new TwitterApi("twitter", Constants.ApiInfo.TwitterInfo.TwitterAppId, Constants.ApiInfo.TwitterInfo.TwitterSecret) {RedirectUrl=new Uri("https://mobile.twitter.com/home") };
-                    account = await twitterAuthenticator.Authenticate();
-                    ;
+                    account = await twitterAuthenticator.Authenticate();                   
                     break;
                 case Constants.Providers.Local:
                     break;
                 default:
                     break;
             }
-
+            
+            var oauthAccount = account as SimpleAuth.OAuthAccount;
+            if (!string.IsNullOrEmpty(oauthAccount.Token))
+            {
+                await StoreToken(oauthAccount.Token);
+                _navigation.NavigateToRoot<HomePageViewModel>(true, null);
+            }
             return;
         }
 
@@ -59,9 +69,10 @@ namespace CrowdRelief.Services
             throw new NotImplementedException();
         }
 
-        public Task StoreToken()
+        public Task StoreToken(string token)
         {
-            throw new NotImplementedException();
+            StorageService.SaveValue(Constants.Storage.Token,token);
+            return Task.FromResult(0);
         }
     }
 }

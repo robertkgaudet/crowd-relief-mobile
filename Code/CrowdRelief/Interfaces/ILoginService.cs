@@ -10,7 +10,7 @@ namespace CrowdRelief.Interfaces
     {
         Task LoginAsync(string provider);
         Task LogOut();
-        Task StoreToken();
+        Task StoreToken(string token);
         Task GetToken();
         Task CheckToken();
     }

@@ -56,5 +56,9 @@ namespace CrowdRelief
             public const string Local = "local";
 
         }
+        public struct Storage
+        {
+            public const string Token = "Token";
+        }
     }
 }

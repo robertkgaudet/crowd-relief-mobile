@@ -16,7 +16,8 @@ namespace CrowdRelief
         {
             Container.Initialize();
             Pages();
-            Container.Resolve<INavigationService>().NavigateToRoot<LoginPageViewModel>(false);         
+            Container.Resolve<INavigationService>().NavigateToRoot<LoginPageViewModel>(false);
+            
         }
 
         private void Pages()
@@ -26,6 +27,7 @@ namespace CrowdRelief
                 Registrations =
                 {
                     { typeof(LoginPage), typeof(LoginPageViewModel) },
+                    { typeof(HomePage), typeof(HomePageViewModel) },
                 }
             });
         }

@@ -22,8 +22,8 @@ namespace CrowdRelief.iOS {
             global::Xamarin.Forms.Forms.Init();
 			LoadApplication(new App());
             SimpleAuth.NativeSafariAuthenticator.Activate();
-
-			return base.FinishedLaunching(app, options);
+            SimpleAuth.Providers.Facebook.Init(app, options);
+            return base.FinishedLaunching(app, options);
 		}
 
         public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
