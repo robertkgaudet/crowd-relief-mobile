@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using FFImageLoading.Forms.Touch;
 
 namespace CrowdRelief.iOS {
 	// The UIApplicationDelegate for the application. This class is responsible for launching the 
@@ -23,6 +24,8 @@ namespace CrowdRelief.iOS {
 			LoadApplication(new App());
             SimpleAuth.NativeSafariAuthenticator.Activate();
             SimpleAuth.Providers.Facebook.Init(app, options);
+            CachedImageRenderer.Init();
+
             return base.FinishedLaunching(app, options);
 		}
 

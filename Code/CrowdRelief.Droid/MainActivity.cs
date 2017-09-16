@@ -8,6 +8,7 @@ using Android.Widget;
 using Android.OS;
 using Android.Content;
 using Plugin.SecureStorage;
+using FFImageLoading.Forms.Droid;
 
 [assembly: MetaData("com.facebook.sdk.ApplicationId", Value = "@string/facebook_app_id")]
 namespace CrowdRelief.Droid {
@@ -15,13 +16,14 @@ namespace CrowdRelief.Droid {
 		Label = "CrowdRelief", 
 		Icon = "@drawable/icon", 
 		MainLauncher = false, 
-		ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+		ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation, Theme = "@android:style/Theme.Material.Light.DarkActionBar")]
 	public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsApplicationActivity {
 		protected override void OnCreate(Bundle bundle)
         {
 			base.OnCreate(bundle);
             SimpleAuth.Providers.Google.Init(this.Application);
             SimpleAuth.Providers.Facebook.Init(this.Application,false);
+            CachedImageRenderer.Init();
             SecureStorageImplementation.StoragePassword = "P@ssWord1!";
             global::Xamarin.Forms.Forms.Init(this, bundle);
 			LoadApplication(new App());

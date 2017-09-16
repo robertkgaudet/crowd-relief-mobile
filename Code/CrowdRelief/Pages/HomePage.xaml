@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="CrowdRelief.Pages.HomePage">
-  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+<ContentPage x:Class="CrowdRelief.Pages.HomePage" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:constants="clr-namespace:CrowdRelief">
+    <StackLayout>
+        <Label FontSize="Large" HorizontalOptions="Center" Text="{Binding Title}" VerticalOptions="Center" />
+        <Button HorizontalOptions="Center" Text="{x:Static constants:Constants+Text.ManageProfile}" VerticalOptions="Center" />
+    </StackLayout>
 </ContentPage>

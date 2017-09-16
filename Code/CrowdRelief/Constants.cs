@@ -8,6 +8,10 @@ namespace CrowdRelief
 {
     public class Constants
     {
+        public Constants()
+        {
+
+        }
         public struct ApiInfo
         {
             public struct GoogleInfo
@@ -59,6 +63,14 @@ namespace CrowdRelief
         public struct Storage
         {
             public const string Token = "Token";
+        }
+        public struct Pages
+        {
+            public const string Home = "Crowd Relief";
+        }
+        public struct Text
+        {
+            public const string ManageProfile = "Manage Profile";
         }
     }
 }
